@@ -1,0 +1,46 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.467
+Switch reminders and notices on or off, and set their timing.
+
+00:00:05.167 --> 00:00:08.733
+What runs. Every automation, one card each.
+
+00:00:09.233 --> 00:00:21.433
+Estimate follow-ups. No answer to an estimate: Email 1 after the days you set, Email 2 later, then a call ticket for the office. Estimates older than the last number are skipped.
+
+00:00:21.933 --> 00:00:25.500
+The switch. Turns it on or off and saves at once.
+
+00:00:26.000 --> 00:00:33.533
+Its timing. Change a number and the flow above follows it. Press the Save button that appears on the card to keep it.
+
+00:00:34.033 --> 00:00:48.333
+Past-due reminders. One statement per customer listing what's open: first after the days past due, then every few days, up to the number set; then a collection call. It can include SA balances.
+
+00:00:48.833 --> 00:01:01.600
+Appointment reminders. The day before, at the hour you set (0–23, 10 = 10 am), by email and by text when texts are on. Moving the appointment sends the new time.
+
+00:01:02.100 --> 00:01:12.300
+Job start notice. The day before a crew's first day on a job. "Crews usually arrive" is the wording for when they come. Maintenance visits don't get one.
+
+00:01:12.800 --> 00:01:20.267
+"We've arrived". Sent when the crew lead starts the job on the phone, with the arrival photo. Once a day per job.
+
+00:01:20.767 --> 00:01:32.067
+Accepted online → deposit. When a customer signs the online estimate, the job, contract and payment schedule are made and the deposit invoice is emailed.
+
+00:01:32.567 --> 00:01:40.367
+Card declined. Marking a card as declined emails the customer to update it and gives the office a call ticket.
+
+00:01:40.867 --> 00:01:52.033
+Satisfaction survey. A short survey link the days you set after a job is complete. A score at or below your number opens a ticket so someone calls the customer.
+
+00:01:52.533 --> 00:02:04.567
+Website requests. Off: requests wait on My day for someone to accept. On: genuine-looking ones become a customer and a ticket at once, for the person in "Tickets go to".
+
+00:02:05.067 --> 00:02:12.367
+Sent and wording. Each card says how many went out in the last 30 days. Edit wording opens its message.
+
+00:02:12.867 --> 00:02:18.467
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

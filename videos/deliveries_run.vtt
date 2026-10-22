@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.933
+Book a delivery or container run.
+
+00:00:03.633 --> 00:00:06.433
+New run. Opens the run form.
+
+00:00:06.933 --> 00:00:15.000
+What kind of run. Material delivery, drop a container, pick one up, swap (dump and bring it back), move one, or any other run.
+
+00:00:15.500 --> 00:00:17.733
+Day. The day of the run.
+
+00:00:18.267 --> 00:00:20.500
+Time. The start time.
+
+00:00:21.000 --> 00:00:25.767
+Takes. How long it keeps the driver busy: 30 minutes up to all day.
+
+00:00:26.267 --> 00:00:32.200
+Driver. Only drivers are listed. Leave it empty and the run goes under Not assigned.
+
+00:00:32.700 --> 00:00:39.100
+Customer. Search by name, phone or street and pick them from the list; the address becomes theirs.
+
+00:00:39.600 --> 00:00:45.567
+Address. Only if it is not the customer's address: a job site, a second property …
+
+00:00:46.067 --> 00:00:52.133
+A container run. For a drop, pickup, swap or move the form asks which container.
+
+00:00:52.633 --> 00:01:01.033
+Container. For a drop: one from the yard, or leave it for the driver. For a pickup, swap or move: the one at the customer.
+
+00:01:01.533 --> 00:01:03.933
+Truck. Which truck (from Fleet).
+
+00:01:04.433 --> 00:01:12.867
+Load / what for. For a delivery, the load (6 pallets pavers, 22 t QP). For a container, what it is for.
+
+00:01:13.367 --> 00:01:18.800
+Notes for the driver. Gate code, where to put it … The driver sees it on the phone.
+
+00:01:19.300 --> 00:01:28.733
+Book it. Schedule run saves it and the driver sees it on the phone. You are warned if the truck or container is busy. The tour doesn't press it.
+
+00:01:29.233 --> 00:01:33.900
+Close the form. The x closes the form without saving anything.
+
+00:01:34.400 --> 00:01:41.200
+Quicker: + on a day. The + in a driver's day opens the same form for that day and driver.
+
+00:01:41.700 --> 00:01:51.267
+From a container. A container's card books runs too: Schedule pickup or Swap for one that is out, Drop it at a customer for one in the yard.
+
+00:01:51.767 --> 00:01:57.367
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

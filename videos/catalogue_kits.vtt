@@ -1,0 +1,37 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.800
+Set up a service's kit of materials.
+
+00:00:03.500 --> 00:00:10.067
+Find the service. Only services have a kit. Any kind → Services lists just the services.
+
+00:00:10.567 --> 00:00:16.633
+Open the service. Click the service to open it. Here: Paver Patio Installation.
+
+00:00:17.133 --> 00:00:24.033
+It must be a service. Kind must be Service (labor). A new service gets its kit after its first save.
+
+00:00:24.533 --> 00:00:30.200
+The kit. The materials that come with this service on every estimate it is added to.
+
+00:00:30.700 --> 00:00:43.167
+How much per unit. How much of the material goes with one unit of the service, e.g. tons of base per sq ft of patio. The estimate works out the amount from the service's quantity.
+
+00:00:43.667 --> 00:00:51.933
+Show it to the customer?. Tick Show to list that material on the customer's copy. Unticked, it stays hidden from the customer.
+
+00:00:52.433 --> 00:00:58.867
+Take one out. The x takes that material out of the kit. Nothing changes until you press Save.
+
+00:00:59.367 --> 00:01:06.967
+Add a material. Pick a material, equipment item or fee to add it to the kit at 1 per unit, then set the amount.
+
+00:01:07.467 --> 00:01:14.900
+Save. Save keeps the item and its kit. New estimates get the new kit; estimates already written don't change.
+
+00:01:15.400 --> 00:01:18.600
+Close it. The tour closes it without saving.
+
+00:01:19.100 --> 00:01:24.700
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.400
+Set up sending: live email, test address, texts, links.
+
+00:00:05.100 --> 00:00:09.733
+Sending setup. The Sending setup tab: how messages are sent.
+
+00:00:10.233 --> 00:00:18.600
+Email. While live email is off, everything goes to the test address (a few a day at most) with the real address in the subject.
+
+00:00:19.100 --> 00:00:29.167
+Live email to customers. Switch it on once the wording is right: then automations write to real customers. It needs the office email first.
+
+00:00:29.667 --> 00:00:33.800
+Test address. Where emails go while live email is off.
+
+00:00:34.300 --> 00:00:39.633
+Test emails a day. The most test emails a day while live email is off.
+
+00:00:40.133 --> 00:00:45.233
+Where customers write. Shown in every email so replies reach a person.
+
+00:00:45.733 --> 00:00:56.233
+Send from our mailbox. Blank: emails come from the Fieldproxy no-reply. Connect the office mailbox in Fieldproxy, then put its account number here.
+
+00:00:56.733 --> 00:01:01.300
+Line under the name. The line under the company name in emails.
+
+00:01:01.800 --> 00:01:09.100
+Marketing emails per hour. Mailbox providers limit bulk sends; 200 an hour is safe for most.
+
+00:01:09.600 --> 00:01:21.967
+Text messages. Switch texts on for appointment reminders, job notices and "we've arrived". Needs the SMS number set up. Customers who reply STOP are never texted again.
+
+00:01:22.467 --> 00:01:26.733
+Test mobile number. Where texts go while live email is off.
+
+00:01:27.233 --> 00:01:34.400
+Online payment page. Optional: where customers pay a deposit online. Shown after they accept.
+
+00:01:34.900 --> 00:01:41.067
+Request form link. The public request form, used by campaign buttons and the website.
+
+00:01:41.567 --> 00:01:47.067
+Crew photos. Yes: crews can't start or finish a job without a photo.
+
+00:01:47.567 --> 00:01:54.833
+Too far from the job. Starts or finishes further than this from the address (in meters) are flagged on the job.
+
+00:01:55.333 --> 00:02:00.633
+Maintenance ahead. How many days ahead maintenance visits are put on the schedule.
+
+00:02:01.133 --> 00:02:11.767
+QuickBooks items. The QuickBooks product/service names for invoice lines, deposits and milestones, and maintenance visits, used in the QuickBooks file.
+
+00:02:12.267 --> 00:02:17.833
+Save setup. Keeps everything on this tab. It checks the addresses and links first.
+
+00:02:18.333 --> 00:02:23.933
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

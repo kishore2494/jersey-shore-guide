@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.467
+See what is waiting and what went out (stop or resend a message).
+
+00:00:05.167 --> 00:00:07.900
+Queue. Messages waiting to go.
+
+00:00:08.400 --> 00:00:21.933
+Waiting to go. Each message, customer, subject and address, and when it goes. The eye shows it, the arrow sends it now, the x cancels it. If its reason goes away (paid, answered) it cancels itself.
+
+00:00:22.433 --> 00:00:24.400
+Sent. What went out.
+
+00:00:25.033 --> 00:00:32.100
+What went out. The last 80 messages, newest first. Messages marked test went to the test address.
+
+00:00:32.600 --> 00:00:37.700
+Not sent. The ones that failed, were cancelled or were skipped, with the reason.
+
+00:00:38.200 --> 00:00:41.467
+Send again. Queues that message once more.
+
+00:00:41.967 --> 00:00:44.633
+Sent. Only the ones that went out.
+
+00:00:45.133 --> 00:00:47.333
+All. Everything again.
+
+00:00:47.833 --> 00:00:51.200
+The customer. The name opens the customer.
+
+00:00:51.700 --> 00:00:54.433
+View it. The eye shows the message.
+
+00:00:54.933 --> 00:01:02.233
+The message. Its subject, who it went (or was meant) to and, if it didn't go, why. Below: the message itself.
+
+00:01:02.733 --> 00:01:05.300
+Close it. The tour closes it.
+
+00:01:05.800 --> 00:01:11.400
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.
