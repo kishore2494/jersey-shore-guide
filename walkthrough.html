@@ -29,6 +29,7 @@
   });
   var m = /#t=([0-9]+)/.exec(location.hash);
   if (m) v.addEventListener('loadedmetadata', function () { v.currentTime = +m[1]; }, { once: true });
+  window.addEventListener('hashchange', function () { var h = /#t=([0-9]+)/.exec(location.hash); if (h) go(h[1]); });
 })();
 </script><footer class="foot"><div><b>Jersey Shore Pavers</b> · how-to guide for the office app and the crew phone app, made by Fieldproxy.
 Screens show demo customers, not real ones. Updated 23 October 2026.</div>
