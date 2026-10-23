@@ -1,0 +1,10 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Motion test</title>
+<style>body{margin:0;padding:8px 12px;font:600 13px/1.35 sans-serif;background:#0A3049;color:#9EF0B5}</style></head>
+<body><div id="o">web page test…</div><script>
+// TEMPORARY (10-23): does a https page inside the Fieldproxy phone app's webview widget get the motion sensors?
+var n = 0, src = '', g = '';
+function show() { document.getElementById('o').textContent = 'WEB PAGE test · secure ' + (window.isSecureContext ? 'yes' : 'no') + ' · ' + location.protocol + ' · sensor ' + (('DeviceOrientationEvent' in window) ? 'yes' : 'no') + ' · events ' + n + (src ? ' (' + src + ' ' + g + ')' : ''); }
+window.addEventListener('deviceorientation', function (e) { if (typeof e.gamma === 'number') { n++; src = 'orientation'; g = Math.round(e.gamma) + '°'; } });
+window.addEventListener('devicemotion', function (e) { var a = e.accelerationIncludingGravity; if (a && typeof a.x === 'number') { n++; if (!src) src = 'motion'; } });
+setInterval(show, 500); show();
+</script></body></html>
