@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.067
+Everything on Fleet.
+
+00:00:02.767 --> 00:00:14.800
+Fleet & equipment. Every truck and machine: how many, how many are overdue or due soon, and the fleet manager, who gets the Monday due list and the crews' truck reports (set in Settings).
+
+00:00:15.300 --> 00:00:26.467
+Log service. Records an oil change, inspection, tire service or repair for any unit. The tour "Log a service, oil change or repair" shows the form.
+
+00:00:26.933 --> 00:00:35.333
+Add unit. Adds a truck or machine with its service intervals. The tour "Add or change a truck or machine" shows the form.
+
+00:00:35.833 --> 00:00:45.800
+Reported by the crews. Problems crew leads report from the phone (the truck form under More), with photos. The fleet manager hears about them right away.
+
+00:00:46.300 --> 00:00:54.167
+Log the fix. Opens Log service for that unit with the problem filled in. Logging the fix closes the report.
+
+00:00:54.667 --> 00:01:00.967
+Close without a fix. The x closes a report that needs no repair. Nothing is logged.
+
+00:01:01.467 --> 00:01:11.433
+Filter the units. All (everything not sold), Overdue, Due soon, Trucks, Equipment and Sold. The numbers say how many are overdue and due soon.
+
+00:01:11.933 --> 00:01:15.433
+Overdue. Only the units with something past due.
+
+00:01:15.933 --> 00:01:20.000
+All. Back to every unit. Sold ones stay under Sold.
+
+00:01:20.500 --> 00:01:33.767
+A truck. Oil and Tires: miles left (red = over). Inspect: the next inspection. Miles: the last odometer. A red card has something overdue, an amber one something due soon.
+
+00:01:34.267 --> 00:01:44.633
+A machine. Machines count engine hours. Service: hours left to the next service. Hours: the meter. L and R track: the hours on each track.
+
+00:01:45.133 --> 00:01:48.433
+Open a unit. Click a unit to open it.
+
+00:01:48.933 --> 00:01:57.800
+Its details. Vehicle, type, VIN or serial, plate, crew or driver, status, what its maintenance has cost and notes.
+
+00:01:58.300 --> 00:02:07.367
+New reading. Type today's odometer (engine hours for a machine) so the due dates stay right. The date of the last reading is below.
+
+00:02:07.833 --> 00:02:14.667
+Fix a wrong reading. Tick it only to correct a typo: it allows a number lower than the last reading.
+
+00:02:15.167 --> 00:02:19.633
+Save reading. Saves the number and works out again what is due.
+
+00:02:20.133 --> 00:02:27.900
+Service history. Every service on this unit: date, service, miles or hours, the work, who did it and the cost.
+
+00:02:28.400 --> 00:02:33.200
+Edit unit. Changes its details and intervals, or marks it Sold.
+
+00:02:33.700 --> 00:02:40.433
+Log service for this unit. Opens the service form with this unit and its last reading filled in.
+
+00:02:40.933 --> 00:02:43.500
+Close it. The tour closes it.
+
+00:02:44.000 --> 00:02:54.767
+Service log. Everything serviced in the last 13 months, newest first: date, unit, service, work, miles or hours and cost. 20 rows a page.
+
+00:02:55.267 --> 00:03:00.867
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

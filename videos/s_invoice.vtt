@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.233
+Everything on an invoice.
+
+00:00:02.933 --> 00:00:08.200
+Open an invoice. Click any invoice in the list. We'll open an overdue one.
+
+00:00:08.700 --> 00:00:13.967
+Back to the customer. The customer's name above the number opens their screen.
+
+00:00:14.467 --> 00:00:25.567
+Number, status and dates. Next to it: the kind of invoice and its job, the status, the date issued, when it's due (or due on receipt) and when it was emailed or printed.
+
+00:00:26.067 --> 00:00:36.767
+Email. Emails the invoice to the customer. On a draft it's Email now and marks it sent. While live email is off it goes to the test address instead.
+
+00:00:37.267 --> 00:00:44.067
+Print. Prints it exactly as the customer gets it. On a draft it's Print now and marks it sent (printed).
+
+00:00:44.567 --> 00:00:50.867
+Record payment. A check, cash, card or bank transfer came in. Let's open the form.
+
+00:00:51.367 --> 00:00:58.033
+Amount. Starts at what's still open. Enter less for a part payment. It can't be more than what's open.
+
+00:00:58.533 --> 00:01:08.200
+Method. Check, Card, Cash, Bank transfer or Other. With Card, the card fee from Settings shows as its own surcharge; untick it to waive it.
+
+00:01:08.700 --> 00:01:15.667
+Check # / reference. The check number or a reference, so the bookkeeper can match it to the deposit.
+
+00:01:16.167 --> 00:01:20.867
+Received. The day the money came in. Today unless you change it.
+
+00:01:21.367 --> 00:01:31.833
+Save the payment. Record payment saves it: the invoice shows what's left or Paid in full, and the customer's balance updates. The tour doesn't save it.
+
+00:01:32.333 --> 00:01:37.467
+Close the form. The X (or Cancel) closes it without recording anything.
+
+00:01:37.967 --> 00:01:49.033
+Card on file. If the customer has a card on file, 'Charge card ••1234' and Card declined show here. Charge card charges what's open, after asking.
+
+00:01:49.500 --> 00:02:02.167
+Card declined, void. Card declined logs a decline: the customer is asked to update the card and the office gets a call. Before any payment, a bin icon here voids the invoice.
+
+00:02:02.667 --> 00:02:12.067
+Test mode. Shows while live email is off: emails go to the test address, not the customer. Turn live email on in Settings, Email.
+
+00:02:12.567 --> 00:02:22.467
+Lines. What's billed: description, quantity, price, taxable or not, amount. A sent invoice is locked; to change it, void it and make a new one.
+
+00:02:22.967 --> 00:02:32.333
+The customer copy. Exactly what the customer gets by email or on paper. The invoice total and their account balance are kept apart.
+
+00:02:32.833 --> 00:02:37.733
+Open full size. Opens the customer copy full width to read it.
+
+00:02:38.233 --> 00:02:48.200
+Print / PDF. Prints this copy; choose Save as PDF in the print window to attach it to your own email. This doesn't mark the invoice sent.
+
+00:02:48.700 --> 00:02:52.267
+Close it. The X closes the full-size copy.
+
+00:02:52.767 --> 00:02:58.033
+Print / PDF. The same print or PDF, straight from the card.
+
+00:02:58.533 --> 00:03:06.400
+This invoice. Subtotal, sales tax, the invoice total, what's been paid, and what's still due on this invoice alone.
+
+00:03:06.900 --> 00:03:16.067
+The customer's account. When they have other open invoices, an account box shows the whole balance and lists the others (click one to open it).
+
+00:03:16.533 --> 00:03:24.667
+Payments. Every payment on this invoice: date, method, check number or batch, who recorded it, and any card surcharge.
+
+00:03:25.167 --> 00:03:34.533
+Reminders. Past-due reminders and other messages about this invoice: sent, waiting or skipped, and when. They're set up on Automations.
+
+00:03:35.033 --> 00:03:40.633
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

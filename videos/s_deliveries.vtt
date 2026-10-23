@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.233
+Everything on Deliveries.
+
+00:00:02.933 --> 00:00:11.000
+Deliveries. The drivers' week (instead of the Google Calendar and the whiteboard) and every dumpster: where it is and who has it.
+
+00:00:11.467 --> 00:00:15.033
+Pick the week. The arrows go back or forward a week.
+
+00:00:15.533 --> 00:00:24.300
+New run. Books a material delivery, or a container drop, pickup, swap or move. Tour: "Book a delivery or container run".
+
+00:00:24.800 --> 00:00:29.600
+Runs today. Runs still to do today, and which drivers have them.
+
+00:00:30.100 --> 00:00:33.933
+This week. All the runs this week and how many are done.
+
+00:00:34.433 --> 00:00:40.167
+Containers out. Containers at customers, out of all of them; the rest are in the yard.
+
+00:00:40.667 --> 00:00:52.067
+Full or late. Containers the customer says are full, waiting for pickup. With none, it counts late runs: earlier days not done, also listed in a red banner.
+
+00:00:52.567 --> 00:01:02.100
+The drivers' week. A row per driver, a column per day (Sunday only when a run is on it). Not assigned holds runs with no driver yet.
+
+00:01:02.600 --> 00:01:12.167
+A run. Time, container number, customer, and what it is with the truck. The edge colour is the kind of run; done runs are faded with a tick.
+
+00:01:12.667 --> 00:01:20.633
+Drag to move. Drag a run to another day or driver to move it; the driver's phone follows. Done runs stay put.
+
+00:01:21.100 --> 00:01:26.367
+Add a run on a day. The + in a day starts a run for that driver and day.
+
+00:01:26.867 --> 00:01:30.233
+Open a run. Click a run to see all of it.
+
+00:01:30.700 --> 00:01:39.167
+The details. What, when, driver, truck, customer, address, container, job, load and notes; once done, who did it and when.
+
+00:01:39.667 --> 00:01:43.400
+Edit. Changes the run (the same form as New run).
+
+00:01:43.900 --> 00:01:51.867
+Mark done. For when the driver couldn't on the phone. A drop asks which container went out; the container moves with the run.
+
+00:01:52.367 --> 00:01:55.933
+Cancel run. Cancels the run (it asks first).
+
+00:01:56.433 --> 00:01:59.100
+Customer. Opens the customer.
+
+00:01:59.600 --> 00:02:04.267
+Close the form. The x closes the form without saving anything.
+
+00:02:04.767 --> 00:02:12.667
+Container yard. Every dumpster / roll-off: its number, size, where it is and what's next. Tour: "Track dumpsters".
+
+00:02:13.167 --> 00:02:16.800
+Out. Containers at customers, full ones too.
+
+00:02:17.300 --> 00:02:19.467
+Yard. Ready to go.
+
+00:02:19.967 --> 00:02:22.200
+Repair. Out of service.
+
+00:02:22.700 --> 00:02:24.933
+All. Back to all of them.
+
+00:02:25.467 --> 00:02:30.033
+Add container. A new dumpster: its number, size and notes.
+
+00:02:30.533 --> 00:02:41.867
+A container. Size, number, status (In the yard, Out, Full · pickup due, Repair), customer and address, days out and the next run. Click it for history and actions.
+
+00:02:42.367 --> 00:02:47.967
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

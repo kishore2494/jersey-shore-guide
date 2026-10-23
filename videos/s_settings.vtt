@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.100
+Everything on Settings.
+
+00:00:02.800 --> 00:00:14.033
+Settings. Company details, tax, contract terms, payroll, fleet, payment schedules, commission and the text on documents. Only the owner and the office open it.
+
+00:00:14.533 --> 00:00:22.400
+Save settings. Nothing here is kept until you press it (payment schedules have their own Save). It checks the numbers first.
+
+00:00:22.900 --> 00:00:31.833
+Company. Company name, phone, email, office address, licence line and time zone, printed on estimates, invoices and emails.
+
+00:00:32.333 --> 00:00:41.367
+Estimates. How long estimates are valid, the days to the first and second follow-up, and the amount above which a contract needs a signature.
+
+00:00:41.867 --> 00:00:46.933
+Sales tax. The NJ sales tax rate added to taxable work.
+
+00:00:47.433 --> 00:00:56.700
+Labour cost per crew-hour. What a crew-hour costs you, for the margins on estimates. Job costing uses the burn rates under Reports.
+
+00:00:57.200 --> 00:01:07.200
+How commission works. Commission on the job's gross profit or on the sale; earned when the whole job is paid, or on each paid invoice (sale only).
+
+00:01:07.700 --> 00:01:16.933
+Card surcharge. The % added to card payments, shown on invoices and contracts. Blank: no surcharge, and it isn't mentioned.
+
+00:01:17.433 --> 00:01:24.200
+Extras rate. The rate per man-hour for extra work not in the estimate, printed in the contract terms.
+
+00:01:24.700 --> 00:01:33.467
+Late charge. A % a month added to late invoices once a month, once they are late by the days below. Blank = off.
+
+00:01:33.967 --> 00:01:42.000
+Payroll. Overtime after how many hours a week, and the ADP company code for the pay-data file from Timesheets.
+
+00:01:42.500 --> 00:01:51.167
+Customer notices. Which types of work (crew specializations) get the "you're on the schedule for …" email. Each job can override it.
+
+00:01:51.667 --> 00:01:56.700
+Fleet manager. Who gets the Monday due list and the crews' truck reports.
+
+00:01:57.200 --> 00:02:06.567
+When "due soon" starts. How close oil and tires (miles), inspections (days) and machine service (engine hours) must be to count as due soon.
+
+00:02:07.067 --> 00:02:12.167
+Snow. The units for salt and ice melt, and whether snow work is taxed.
+
+00:02:12.667 --> 00:02:23.733
+Payment schedules. The payments an estimate is split into (each picks one, by type of work). Each card shows them and what they come to on a $20,000 job.
+
+00:02:24.233 --> 00:02:31.233
+A schedule. Click one to change it. The top line says whether it's the default or which work it is for.
+
+00:02:31.733 --> 00:02:37.533
+New schedule. Makes another one. The tour "Set up a payment schedule" shows the editor.
+
+00:02:38.033 --> 00:02:43.467
+Commission rates. The rate for everyone, plus any salesperson with their own rate.
+
+00:02:43.967 --> 00:02:52.567
+Add a salesperson rate. Adds a row: pick the salesperson and their %. The x removes one. Kept with Save settings.
+
+00:02:53.067 --> 00:02:59.267
+Text on documents. The standard terms printed on estimates, and the footer on invoices.
+
+00:02:59.767 --> 00:03:09.433
+Open Automations. Follow-ups, reminders, texts and the sending mailbox are set up under Automations, with the wording of every message.
+
+00:03:09.900 --> 00:03:20.567
+Live email. Off: every email goes to the test address instead of the customer. Turn it on when ready; it needs the company email. Kept with Save settings.
+
+00:03:21.067 --> 00:03:25.200
+Test address. Where emails go while live email is off.
+
+00:03:25.700 --> 00:03:33.000
+Customer quote link. Optional: a link customers can open; {token} is replaced for each estimate.
+
+00:03:33.500 --> 00:03:39.100
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

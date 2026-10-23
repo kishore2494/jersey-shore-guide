@@ -191,3 +191,35 @@ main{max-width:1240px;margin:0 auto;padding:0 max(16px,2vw) 40px}
   .pn.nx{text-align:left}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* the complete walkthrough: home card, guide-page link, the page with its chapters */
+a.walkstart{text-decoration:none;color:#fff}
+.walkstart .sv{position:relative}
+.walkstart .bigplay{position:absolute;inset:0;display:grid;place-items:center;background:linear-gradient(0deg,rgba(10,48,73,.35),transparent 60%)}
+.walkstart .bigplay svg{width:84px;height:84px;padding:20px 16px 20px 24px;border-radius:50%;background:var(--terra);fill:#fff;box-shadow:0 18px 40px -10px rgba(0,0,0,.6);transition:transform .25s}
+.walkstart:hover .bigplay svg{transform:scale(1.08)}
+.inwalk{display:flex;align-items:center;gap:10px;margin:10px 0 0;padding:12px 16px;border-radius:14px;background:var(--deep);color:#fff;text-decoration:none;font-weight:600;font-size:15px}
+.inwalk span{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--terra);font-size:12px}
+.inwalk:hover{background:var(--navy)}
+.walk{max-width:1180px}
+.walk h1{font-size:clamp(34px,4.6vw,56px);color:var(--deep)}
+.walkbar{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:center;margin:14px 0 6px;font-weight:600}
+.walkbar #now{color:var(--terra)}
+.walkbar a{color:var(--navy)}
+.chaps{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px;align-items:start}
+.chap{background:var(--paper);border:1px solid var(--line);border-radius:18px;overflow:hidden;transition:border-color .2s,box-shadow .2s}
+.chap.on{border-color:var(--terra);box-shadow:0 0 0 3px rgba(224,122,79,.25)}
+.chap button{all:unset;box-sizing:border-box;cursor:pointer;display:flex;align-items:center;gap:12px;width:100%}
+.chap .ch{padding:14px 16px;background:linear-gradient(90deg,rgba(15,76,110,.07),transparent)}
+.chap .ch b{flex:none;font:800 28px/1 var(--disp);color:var(--terra);min-width:40px}
+.chap .ch span{flex:1;min-width:0}
+.chap .ch strong{display:block;font:700 19px/1.2 var(--disp);color:var(--deep)}
+.chap .ch small{display:block;color:var(--muted);font-size:13.5px;margin-top:3px;line-height:1.35}
+.chap i{flex:none;font-style:normal;font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;font-weight:600}
+.chap ol{list-style:none;margin:0;padding:4px 10px 10px}
+.chap li button{padding:8px 8px;border-radius:10px;font-size:14.5px;font-weight:500;color:#2B3B46}
+.chap li button:hover,.chap .ch:hover{background:var(--sand)}
+.chap .ck{flex:none;font:700 10px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;border-radius:5px;padding:4px 6px;min-width:76px;text-align:center}
+.ck.screen{background:#E3ECF2;color:var(--navy)}.ck.how{background:#F4E2DA;color:#9A3F1E}.ck.phone{background:#DCEFEF;color:#1D7477}
+.chap li button>i{margin-left:auto}
+@media (max-width:820px){.chaps{grid-template-columns:1fr}}

@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.500
+Everything on Team & crews.
+
+00:00:03.200 --> 00:00:14.300
+Team & crews. Who works here and the crews the schedule plans with. Only the owner and the office open it. The line under the title counts crews and active people.
+
+00:00:14.800 --> 00:00:23.900
+New crew. Adds a crew: name, kind of work, lead, size, hours a day, colour and members. The tour "Set up a crew" shows each part.
+
+00:00:24.400 --> 00:00:29.167
+Add person. Gives someone a role in the office app or the crew phone app.
+
+00:00:29.667 --> 00:00:34.467
+Name. Their name as it shows on appointments, crews and the schedule.
+
+00:00:34.967 --> 00:00:43.933
+Login id. Their FieldProxy login (lower case, no spaces). It ties the person to their login and can't be changed later.
+
+00:00:44.433 --> 00:00:55.800
+Role. Owner, Office, Sales, Project manager, Crew lead or Field: it decides what they can open. For a new person, the four office roles tick Takes appointments.
+
+00:00:56.300 --> 00:00:58.567
+Phone. Their phone number.
+
+00:00:59.067 --> 00:01:06.800
+Hourly cost. What an hour of their time costs you; job costing uses it. Only people who see money see this.
+
+00:01:07.300 --> 00:01:16.200
+Sees prices and money. Ticked: they see prices, margins, invoices and payments. Unticked: all of that is hidden from them.
+
+00:01:16.700 --> 00:01:24.100
+Takes appointments. Ticked: they're in the "With" list when you book a visit or a phone call. A task can go to anyone.
+
+00:01:24.600 --> 00:01:33.233
+Office app or phone app. Crew leads and field staff use the crew phone app and never see money there. Office roles open this app.
+
+00:01:33.733 --> 00:01:39.733
+Add person. Saves them. Cancel, or the X at the top, closes without saving.
+
+00:01:40.233 --> 00:01:43.967
+Close the form. The tour closes it without saving.
+
+00:01:44.467 --> 00:01:47.367
+Crews. Your crews, one card each.
+
+00:01:47.867 --> 00:01:59.967
+A crew. Its colour on the schedule, kind of work, lead, people × hours a day = the crew-hours a day the schedule checks against, and members (★ = lead). Click it to change it.
+
+00:02:00.467 --> 00:02:11.600
+People. Everyone with a role: login ("no login yet" until they have one), role, sees money, takes appointments, the crew they lead and phone. Inactive people are tagged.
+
+00:02:12.100 --> 00:02:19.667
+Hourly cost. What each person's hour costs, for job costing. Only people who see money see this column.
+
+00:02:20.167 --> 00:02:25.467
+Change a person. Click a person to change their role, access or phone.
+
+00:02:25.967 --> 00:02:31.133
+Login id stays. Once saved, the login id can't be changed.
+
+00:02:31.633 --> 00:02:37.700
+Active. Untick Active when someone leaves: they come off the pick lists and their history stays.
+
+00:02:38.200 --> 00:02:40.967
+Save. Save keeps the changes.
+
+00:02:41.467 --> 00:02:44.667
+Close it. The tour closes it without saving.
+
+00:02:45.167 --> 00:02:55.433
+Logins without a role. FieldProxy logins that have no role here yet. Add each one with Add person, using the same login id, to let them in.
+
+00:02:55.933 --> 00:03:01.533
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

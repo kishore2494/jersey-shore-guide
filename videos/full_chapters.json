@@ -1,0 +1,672 @@
+{
+ "chapters": [
+  {
+   "no": 1,
+   "name": "A quick tour of the app",
+   "line": "The menu, search, Help and where everything lives.",
+   "start": 15.08,
+   "items": [
+    {
+     "key": "overview",
+     "title": "A quick tour of the app",
+     "kind": "how",
+     "start": 22.55
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "name": "My day",
+   "line": "Where every morning starts: today's visits and calls, follow-ups, new requests, permits and who is on site.",
+   "start": 84.5,
+   "items": [
+    {
+     "key": "s_home",
+     "title": "Everything on My day",
+     "kind": "screen",
+     "start": 94.63
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "name": "Customers",
+   "line": "Every customer and lead, one screen each: booking, calls, notes, estimates, jobs and invoices.",
+   "start": 385.32,
+   "items": [
+    {
+     "key": "s_customers",
+     "title": "Everything on Customers",
+     "kind": "screen",
+     "start": 395.86
+    },
+    {
+     "key": "s_customer",
+     "title": "Everything on a customer",
+     "kind": "screen",
+     "start": 612.97
+    },
+    {
+     "key": "call",
+     "title": "Book a visit, a call back or a task for a customer",
+     "kind": "how",
+     "start": 843.06
+    },
+    {
+     "key": "customer_actions",
+     "title": "Book, log a call or edit a customer",
+     "kind": "how",
+     "start": 901.64
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "name": "Appointments",
+   "line": "Visits, phone calls and tasks: booking them, the lists, and sending one to someone.",
+   "start": 1003.82,
+   "items": [
+    {
+     "key": "s_tickets",
+     "title": "Everything on Appointments",
+     "kind": "screen",
+     "start": 1013.04
+    },
+    {
+     "key": "tickets_new",
+     "title": "Book a visit, a phone call or a task",
+     "kind": "how",
+     "start": 1165.39
+    },
+    {
+     "key": "task",
+     "title": "Give someone a task (to-do, internal meeting)",
+     "kind": "how",
+     "start": 1290.2
+    },
+    {
+     "key": "appt_email",
+     "title": "Email an appointment to someone",
+     "kind": "how",
+     "start": 1320.42
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "name": "Estimates",
+   "line": "From the first visit to the won job: sections, measuring, terms, selections, sending, follow-ups, won or lost, the customer copy.",
+   "start": 1344.2,
+   "items": [
+    {
+     "key": "s_estimates",
+     "title": "Everything on Estimates",
+     "kind": "screen",
+     "start": 1356.81
+    },
+    {
+     "key": "s_estimate",
+     "title": "Everything on an estimate",
+     "kind": "screen",
+     "start": 1561
+    },
+    {
+     "key": "estimate",
+     "title": "Write and send an estimate",
+     "kind": "how",
+     "start": 1817.28
+    },
+    {
+     "key": "estimate_sections",
+     "title": "Build an estimate: sections, materials, add-ons",
+     "kind": "how",
+     "start": 1880.96
+    },
+    {
+     "key": "s_measure",
+     "title": "Everything on Measure",
+     "kind": "screen",
+     "start": 2106.48
+    },
+    {
+     "key": "estimate_terms",
+     "title": "Payment schedule, tax and ST-8 on an estimate",
+     "kind": "how",
+     "start": 2203.9
+    },
+    {
+     "key": "estimate_selections",
+     "title": "Material selections and approval",
+     "kind": "how",
+     "start": 2309.55
+    },
+    {
+     "key": "selections",
+     "title": "Material selections and the selection sheet",
+     "kind": "how",
+     "start": 2452.06
+    },
+    {
+     "key": "estimate_send",
+     "title": "Send an estimate and follow it up",
+     "kind": "how",
+     "start": 2470.81
+    },
+    {
+     "key": "estimate_won",
+     "title": "Mark an estimate won or lost",
+     "kind": "how",
+     "start": 2601.06
+    },
+    {
+     "key": "won",
+     "title": "The customer said yes: contract, payment schedule and job",
+     "kind": "how",
+     "start": 2720.98
+    },
+    {
+     "key": "estimate_invoice",
+     "title": "Invoice an estimate in one click (small jobs, cleanups)",
+     "kind": "how",
+     "start": 2752.2
+    },
+    {
+     "key": "documents_copy",
+     "title": "The customer copy: A4 invoices and proposals",
+     "kind": "how",
+     "start": 2803.78
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "name": "Marketing",
+   "line": "Email campaigns, templates designed with AI or a ready layout, and the cleanup sign-ups.",
+   "start": 2844.1,
+   "items": [
+    {
+     "key": "s_marketing",
+     "title": "Everything on Marketing",
+     "kind": "screen",
+     "start": 2854.14
+    },
+    {
+     "key": "marketing_campaign",
+     "title": "Write and send an email campaign",
+     "kind": "how",
+     "start": 3076.09
+    },
+    {
+     "key": "templates_ai",
+     "title": "Design an email template with AI (or a ready layout)",
+     "kind": "how",
+     "start": 3270.81
+    },
+    {
+     "key": "templates_use",
+     "title": "Use a saved email template in a campaign",
+     "kind": "how",
+     "start": 3377.86
+    },
+    {
+     "key": "signups",
+     "title": "Spring / Fall cleanup sign-ups",
+     "kind": "how",
+     "start": 3434.44
+    },
+    {
+     "key": "marketing_phone_signup",
+     "title": "Take a cleanup sign-up on the phone",
+     "kind": "how",
+     "start": 3462.89
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "name": "Jobs",
+   "line": "Every job from won to paid: work items, permits, change orders, payments, job costing and the job folder.",
+   "start": 3542.81,
+   "items": [
+    {
+     "key": "s_jobs",
+     "title": "Everything on Jobs",
+     "kind": "screen",
+     "start": 3554.18
+    },
+    {
+     "key": "s_job",
+     "title": "Everything on a job",
+     "kind": "screen",
+     "start": 3702.9
+    },
+    {
+     "key": "job_work",
+     "title": "Schedule, start and complete work on a job",
+     "kind": "how",
+     "start": 3900.85
+    },
+    {
+     "key": "permit",
+     "title": "Permits: no start before the township approves",
+     "kind": "how",
+     "start": 4089
+    },
+    {
+     "key": "job_changes",
+     "title": "Price and approve a change order",
+     "kind": "how",
+     "start": 4109.78
+    },
+    {
+     "key": "job_payments",
+     "title": "Invoice a job's payment schedule",
+     "kind": "how",
+     "start": 4243.4
+    },
+    {
+     "key": "job_costing",
+     "title": "Check a job's profit and enter its costs",
+     "kind": "how",
+     "start": 4352.38
+    },
+    {
+     "key": "job_folder",
+     "title": "Keep the job folder, permit and terms",
+     "kind": "how",
+     "start": 4511.07
+    },
+    {
+     "key": "job_extras",
+     "title": "See a job's maintenance plan and survey",
+     "kind": "how",
+     "start": 4692.05
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "name": "Schedule",
+   "line": "Crews down the side, days across: scheduling, moving work for rain, and the warnings.",
+   "start": 4748.97,
+   "items": [
+    {
+     "key": "s_schedule",
+     "title": "Everything on the Schedule",
+     "kind": "screen",
+     "start": 4758.18
+    },
+    {
+     "key": "schedule",
+     "title": "Schedule work, assign crews, move it (rain days)",
+     "kind": "how",
+     "start": 4940.1
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "name": "Maintenance",
+   "line": "Maintenance plans and their visits, and the yearly price change.",
+   "start": 4981.08,
+   "items": [
+    {
+     "key": "s_maintenance",
+     "title": "Everything on Maintenance",
+     "kind": "screen",
+     "start": 4988.95
+    },
+    {
+     "key": "maintenance_plan",
+     "title": "Set up or change a maintenance plan",
+     "kind": "how",
+     "start": 5138.47
+    },
+    {
+     "key": "maintenance_increase",
+     "title": "Raise maintenance prices for the year",
+     "kind": "how",
+     "start": 5285.35
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "name": "Deliveries",
+   "line": "Material deliveries and the container yard: drops, pickups and swaps.",
+   "start": 5335.8,
+   "items": [
+    {
+     "key": "s_deliveries",
+     "title": "Everything on Deliveries",
+     "kind": "screen",
+     "start": 5344.49
+    },
+    {
+     "key": "deliveries_run",
+     "title": "Book a delivery or container run",
+     "kind": "how",
+     "start": 5506.7
+    },
+    {
+     "key": "deliveries_containers",
+     "title": "Track dumpsters: drop, pick up, swap",
+     "kind": "how",
+     "start": 5618.32
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "name": "Snow",
+   "line": "Snow sites, their pricing, the crews' logs and billing the storm.",
+   "start": 5741.64,
+   "items": [
+    {
+     "key": "s_snow",
+     "title": "Everything on Snow",
+     "kind": "screen",
+     "start": 5749.64
+    },
+    {
+     "key": "snow_pricing",
+     "title": "Price snow by snowfall or by the hour",
+     "kind": "how",
+     "start": 5902.82
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "name": "Timesheets",
+   "line": "Each person's week, overtime, missed clock-outs, corrections, approval and the ADP file.",
+   "start": 5983.44,
+   "items": [
+    {
+     "key": "s_timesheets",
+     "title": "Everything on Timesheets",
+     "kind": "screen",
+     "start": 5993.55
+    },
+    {
+     "key": "timesheets_fix",
+     "title": "Fix a missed clock-out or add time",
+     "kind": "how",
+     "start": 6164.13
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "name": "Invoices",
+   "line": "Drafts, sending, payments, cards, month-end billing and the QuickBooks file.",
+   "start": 6272.41,
+   "items": [
+    {
+     "key": "s_invoices",
+     "title": "Everything on Invoices",
+     "kind": "screen",
+     "start": 6281.46
+    },
+    {
+     "key": "s_invoice",
+     "title": "Everything on an invoice",
+     "kind": "screen",
+     "start": 6477.58
+    },
+    {
+     "key": "money",
+     "title": "Invoice, record a payment, chase what's owed",
+     "kind": "how",
+     "start": 6692.46
+    },
+    {
+     "key": "invoice_draft",
+     "title": "Check a draft invoice, then email or print it",
+     "kind": "how",
+     "start": 6728.88
+    },
+    {
+     "key": "invoices_drafts_all",
+     "title": "Email or print all the draft invoices at once",
+     "kind": "how",
+     "start": 6838.29
+    },
+    {
+     "key": "invoices_month_end",
+     "title": "Month-end billing: monthly accounts and maintenance",
+     "kind": "how",
+     "start": 6864.71
+    },
+    {
+     "key": "invoices_cards",
+     "title": "Charge cards on file, one or many, and log a declined card",
+     "kind": "how",
+     "start": 6927.13
+    },
+    {
+     "key": "invoices_quickbooks",
+     "title": "Make the QuickBooks export file",
+     "kind": "how",
+     "start": 7012.54
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "name": "Reports",
+   "line": "Sales, commissions and job costing by job, salesperson and crew.",
+   "start": 7095.86,
+   "items": [
+    {
+     "key": "s_reports",
+     "title": "Everything on Reports",
+     "kind": "screen",
+     "start": 7104.8
+    },
+    {
+     "key": "reports_commissions",
+     "title": "Commission report: filter, check, export for payroll",
+     "kind": "how",
+     "start": 7323.55
+    },
+    {
+     "key": "commission",
+     "title": "Commissions report",
+     "kind": "how",
+     "start": 7428.27
+    },
+    {
+     "key": "reports_costing",
+     "title": "Job costing: profit by job, salesperson and crew",
+     "kind": "how",
+     "start": 7442.72
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "name": "Catalogue",
+   "line": "Services, materials and the kits that price an estimate.",
+   "start": 7599.93,
+   "items": [
+    {
+     "key": "s_catalogue",
+     "title": "Everything on Catalogue",
+     "kind": "screen",
+     "start": 7607.72
+    },
+    {
+     "key": "catalogue_kits",
+     "title": "Set up a service's kit of materials",
+     "kind": "how",
+     "start": 7803.37
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "name": "Fleet",
+   "line": "Trucks and machines: what is due, the service log and the crews' reports.",
+   "start": 7882.32,
+   "items": [
+    {
+     "key": "s_fleet",
+     "title": "Everything on Fleet",
+     "kind": "screen",
+     "start": 7890.66
+    },
+    {
+     "key": "fleet_units",
+     "title": "Add or change a truck or machine",
+     "kind": "how",
+     "start": 8065.78
+    },
+    {
+     "key": "fleet_service",
+     "title": "Log a service, oil change or repair",
+     "kind": "how",
+     "start": 8185.76
+    }
+   ]
+  },
+  {
+   "no": 17,
+   "name": "Team and crews",
+   "line": "Logins, roles, crews, their leads and their colours.",
+   "start": 8282.34,
+   "items": [
+    {
+     "key": "s_team",
+     "title": "Everything on Team & crews",
+     "kind": "screen",
+     "start": 8290.39
+    },
+    {
+     "key": "team_crews",
+     "title": "Set up a crew: lead, size, hours, colour, members",
+     "kind": "how",
+     "start": 8466.17
+    }
+   ]
+  },
+  {
+   "no": 18,
+   "name": "Automations",
+   "line": "Every message the system sends by itself: on or off, timing, wording, the queue, and setting up sending.",
+   "start": 8559.75,
+   "items": [
+    {
+     "key": "s_automations",
+     "title": "Everything on Automations",
+     "kind": "screen",
+     "start": 8570.74
+    },
+    {
+     "key": "automations_what",
+     "title": "Switch reminders and notices on or off, and set their timing",
+     "kind": "how",
+     "start": 8779.79
+    },
+    {
+     "key": "automations_wording",
+     "title": "Change the wording of an email or text",
+     "kind": "how",
+     "start": 8912.51
+    },
+    {
+     "key": "automations_queue",
+     "title": "See what is waiting and what went out (stop or resend a message)",
+     "kind": "how",
+     "start": 9016.02
+    },
+    {
+     "key": "automations_setup",
+     "title": "Set up sending: live email, test address, texts, links",
+     "kind": "how",
+     "start": 9081.67
+    }
+   ]
+  },
+  {
+   "no": 19,
+   "name": "Settings",
+   "line": "Company details, money rules, payment schedules and your logo.",
+   "start": 9219.86,
+   "items": [
+    {
+     "key": "s_settings",
+     "title": "Everything on Settings",
+     "kind": "screen",
+     "start": 9228.03
+    },
+    {
+     "key": "settings_schedules",
+     "title": "Set up a payment schedule (deposit, progress payments, final)",
+     "kind": "how",
+     "start": 9441.38
+    },
+    {
+     "key": "settings_logo",
+     "title": "Put your logo on every estimate, invoice and email",
+     "kind": "how",
+     "start": 9570.09
+    }
+   ]
+  },
+  {
+   "no": 20,
+   "name": "The Guide",
+   "line": "Every how-to in one place, inside the app.",
+   "start": 9599.61,
+   "items": [
+    {
+     "key": "s_guide",
+     "title": "Everything on Guide",
+     "kind": "screen",
+     "start": 9606.25
+    }
+   ]
+  },
+  {
+   "no": 21,
+   "name": "The crew phone app",
+   "line": "The crew lead's day, a job, visits and calls, the driver's runs, snow, truck problems and hours.",
+   "start": 9727.63,
+   "items": [
+    {
+     "key": "crew_day",
+     "title": "The crew lead's day on the phone",
+     "kind": "phone",
+     "start": 9739
+    },
+    {
+     "key": "crew_job",
+     "title": "A job on the phone: materials, photos, notes, problems",
+     "kind": "phone",
+     "start": 9848.32
+    },
+    {
+     "key": "crew_appts",
+     "title": "Visits and phone calls on the phone",
+     "kind": "phone",
+     "start": 9914.17
+    },
+    {
+     "key": "crew_runs",
+     "title": "The driver's runs: deliveries and containers",
+     "kind": "phone",
+     "start": 9963.75
+    },
+    {
+     "key": "crew_more",
+     "title": "Snow log, truck problems and my hours",
+     "kind": "phone",
+     "start": 9991.87
+    }
+   ]
+  }
+ ],
+ "closing": 10033.38,
+ "duration": 10047.23
+}

@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.233
+Everything on Marketing.
+
+00:00:02.933 --> 00:00:11.733
+Marketing. Seasonal emails to the right customers, your Spring and Fall cleanup sign-ups, and requests from your website, on one screen.
+
+00:00:12.233 --> 00:00:21.400
+The numbers. Customers you can reach by email, how many opted out, campaigns sent, cleanup sign-ups waiting and new website requests.
+
+00:00:21.900 --> 00:00:31.900
+New campaign. Owner and office: starts a blank campaign. Most start from a season card instead. "Write and send an email campaign" walks through it.
+
+00:00:32.400 --> 00:00:43.833
+Live email is off. While this shows, you can write and test campaigns but nothing goes to customers. Live email is switched on in Automations → Sending setup.
+
+00:00:44.333 --> 00:00:48.733
+Campaigns. Every campaign you've written, and the season starters.
+
+00:00:49.233 --> 00:01:00.267
+A campaign. Name, status (Draft, Scheduled, Sending, Sent, Stopped), subject, who made it and when. While sending, a bar shows how many went, wait or failed.
+
+00:01:00.767 --> 00:01:10.533
+Open a draft. Opens a draft to finish it. While one is going out, Stop is here instead: emails already sent stay sent, the rest are cancelled.
+
+00:01:11.033 --> 00:01:17.267
+Duplicate. Copies a campaign as a new draft: last fall's email, ready for this fall.
+
+00:01:17.767 --> 00:01:23.767
+Delete a draft. Deletes a draft you don't need (it asks first). Only drafts can be deleted.
+
+00:01:24.267 --> 00:01:35.333
+Start from a season. Spring or fall cleanup, paver sealing, next year's project, "still thinking it over?" and maintenance plans: each brings its wording and who should get it.
+
+00:01:35.800 --> 00:01:43.200
+Cleanup sign-ups. Your Spring and Fall Service Request Forms and everyone who signed up, in the order received.
+
+00:01:43.700 --> 00:01:54.267
+Your forms. One card per season with the sign-ups waiting. The link for your website and emails, with Copy link, appears here once the online forms are on.
+
+00:01:54.767 --> 00:02:01.333
+See the form. Shows the form question for question, as customers see it. The tour opens it.
+
+00:02:01.833 --> 00:02:12.900
+What customers fill in. Name, phone, address, the services they want, meet a manager or just a quote, the date they'd like, and any billing or contact changes.
+
+00:02:13.367 --> 00:02:16.333
+Close it. The x closes the preview.
+
+00:02:16.833 --> 00:02:26.400
+Someone calls instead. Take a phone sign-up asks the same questions and puts them in line. "Take a cleanup sign-up on the phone" shows the form.
+
+00:02:26.867 --> 00:02:32.367
+Spring or Fall. Switches the list below between the Spring and the Fall sign-ups.
+
+00:02:32.867 --> 00:02:44.167
+In the order received. Number in line, when and how it came in, the customer, what they want, estimate style, preferred date, and flags: auto-pay call, billing change, note.
+
+00:02:44.667 --> 00:02:54.033
+Accept. Makes the visit: "meet a manager" becomes an estimate visit to book, "just send a quote" a stop-by. New people are added as leads.
+
+00:02:54.533 --> 00:02:59.400
+Dismiss. The x takes a sign-up off the list (a duplicate, a test).
+
+00:02:59.900 --> 00:03:05.567
+Website requests. Requests from the form on your website and from campaign buttons.
+
+00:03:06.067 --> 00:03:14.467
+The request form. Its link, for your website and campaign buttons, with Copy link. It shows once the public form is switched on.
+
+00:03:14.967 --> 00:03:24.733
+A new request. Name, town, phone, email, the services they want, their message and the best time. Ones that look like spam are flagged.
+
+00:03:25.233 --> 00:03:33.000
+Accept. Matches an existing customer or adds a new lead, makes a ticket for the visit, and opens the customer.
+
+00:03:33.500 --> 00:03:41.600
+Dismiss. Spam or not for you. Accepted and dismissed requests move to a Handled list below, with who handled them.
+
+00:03:42.100 --> 00:03:47.700
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

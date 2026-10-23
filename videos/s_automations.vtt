@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.433
+Everything on Automations.
+
+00:00:03.133 --> 00:00:14.100
+Automations. What the system does without anyone pressing a button: follow-ups, reminders and notices. Every message waits in the queue first, where you can stop it.
+
+00:00:14.600 --> 00:00:24.167
+At a glance. How many of the 9 automations are switched on, messages sent today and in the last 30 days, and how many are waiting to go.
+
+00:00:24.633 --> 00:00:34.733
+Run now. Runs the checks straight away instead of waiting for the next run: whatever is due gets queued and its call tickets made. A message says what it did.
+
+00:00:35.233 --> 00:00:40.100
+Wording. Opens the Wording tab: the words of every email and text.
+
+00:00:40.600 --> 00:00:47.300
+Today's clock. Each dot is a message sent today, at the hour it went. The red hand is now.
+
+00:00:47.800 --> 00:00:56.400
+Engine. Green when the automatic run is connected (every 10 minutes). Until then the checks run whenever the office opens the app.
+
+00:00:56.900 --> 00:01:01.900
+Last run. When the checks last ran. Amber if it was over an hour ago.
+
+00:01:02.400 --> 00:01:08.467
+Sending. When the last message went out. Amber if a message has waited more than 20 minutes.
+
+00:01:08.967 --> 00:01:16.900
+Live email. On: messages go to customers. Off: they go to the test address. Change it under Sending setup.
+
+00:01:17.400 --> 00:01:21.533
+Texts. Whether text messages are switched on (Sending setup).
+
+00:01:22.033 --> 00:01:29.500
+Online estimates. Whether the online estimate links, where customers view and accept online, are installed.
+
+00:01:30.000 --> 00:01:33.967
+What runs. Every automation, with its switch and timing.
+
+00:01:34.467 --> 00:01:46.333
+One automation. What it does, its flow (what starts it, the wait, what goes out), its timing, how many went out in 30 days and Edit wording. Change a number and a Save button appears.
+
+00:01:46.833 --> 00:01:56.267
+On or off. The switch turns it on or off and saves straight away. The tour "Switch reminders and notices on or off" goes through all nine.
+
+00:01:56.767 --> 00:01:59.500
+Queue. Messages waiting to go.
+
+00:02:00.000 --> 00:02:13.533
+Waiting to go. Each message, customer, subject and address, and when it goes. The eye shows it, the arrow sends it now, the x cancels it. If its reason goes away (paid, answered) it cancels itself.
+
+00:02:14.033 --> 00:02:16.000
+Sent. What went out.
+
+00:02:16.633 --> 00:02:28.467
+What went out. The last 80 messages, newest first, with All / Sent / Not sent. The eye shows a message; the round arrow sends a failed, cancelled or skipped one again.
+
+00:02:28.967 --> 00:02:31.933
+Wording. The words of every message.
+
+00:02:32.433 --> 00:02:44.867
+The words. Pick a message under Every message, change its subject and text, and see it on the right as a customer gets it. The tour "Change the wording of an email or text" shows each part.
+
+00:02:45.367 --> 00:02:50.000
+Sending setup. The Sending setup tab: how messages are sent.
+
+00:02:50.500 --> 00:03:02.733
+How sending is set up. Live email, the test address, the address customers write to, texts, links in messages, crew photo rules and QuickBooks items. Save setup keeps them.
+
+00:03:03.233 --> 00:03:06.900
+Runs. The Runs tab: every run of the checks.
+
+00:03:07.400 --> 00:03:18.200
+Automation runs. When each run happened, what started it (the timer, the office or Run now), how long it took and what it did. A red tag means a part failed.
+
+00:03:18.700 --> 00:03:28.700
+Online estimate events. Online estimates opened, accepted and declined, as the platform reported them. Click one to open the estimate.
+
+00:03:29.200 --> 00:03:34.800
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

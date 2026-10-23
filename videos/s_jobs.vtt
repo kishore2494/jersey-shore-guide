@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.133
+Everything on Jobs.
+
+00:00:02.833 --> 00:00:12.700
+Jobs. Every sold job, from "to schedule" to "paid". A job is made when an estimate is marked Won, with one work item per estimate section.
+
+00:00:13.200 --> 00:00:19.333
+Schedule board. Opens the crew board, where each piece of work gets its crew and its days.
+
+00:00:19.833 --> 00:00:27.267
+To schedule. Jobs with work that has no crew or start day yet. Click the box to list just those jobs.
+
+00:00:27.767 --> 00:00:31.967
+Scheduled. Jobs on the board, waiting for the crew to start.
+
+00:00:32.467 --> 00:00:39.933
+In progress. Jobs a crew has started (the crew lead presses Start on the phone, or the office does on the job).
+
+00:00:40.433 --> 00:00:47.200
+To invoice. Jobs whose work is all complete but not fully billed yet. Click the box to list them.
+
+00:00:47.700 --> 00:00:56.667
+Active jobs. The list opens on Active: sold, scheduled and in progress. The number on each tab is how many jobs are in it.
+
+00:00:57.167 --> 00:01:03.567
+To schedule tab. Jobs with work still to put on the board, approved change orders included.
+
+00:01:04.067 --> 00:01:07.567
+Complete. Finished jobs waiting to be invoiced.
+
+00:01:08.067 --> 00:01:12.833
+Invoiced / paid. Jobs that are billed, and the ones paid in full.
+
+00:01:13.333 --> 00:01:16.333
+All. Every job, whatever its status.
+
+00:01:16.833 --> 00:01:25.567
+Search the list. Type a job number, title, customer or town. The list filters as you type, inside the tab you are on.
+
+00:01:26.067 --> 00:01:32.433
+Job, customer, town. The job number and title, with the customer and the town under it.
+
+00:01:32.933 --> 00:01:45.900
+Status and flags. Sold, Scheduled, In progress, Complete, Invoiced or Paid. Tags: "1 to schedule" = work not on the board yet; a red Permit hold = it can't start yet.
+
+00:01:46.400 --> 00:01:50.900
+Crews. The crews doing the work, each with its colour from the board.
+
+00:01:51.400 --> 00:01:55.667
+When. The first and last day on the board, or "not scheduled".
+
+00:01:56.167 --> 00:02:02.867
+Work done. The ring shows work items complete out of the total: 1/3 means one of three is done.
+
+00:02:03.367 --> 00:02:09.433
+Value. The contract value. Only people who see money see this column and the next one.
+
+00:02:09.933 --> 00:02:16.333
+Paid so far. How much of the value is paid. The bar turns green when it is paid in full.
+
+00:02:16.833 --> 00:02:28.400
+Open a job. Click a row to open the job: work, crews, change orders, costs, payments and the folder. The list shows 50 at a time, with Previous / Next under it.
+
+00:02:28.867 --> 00:02:34.467
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

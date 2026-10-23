@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.267
+Everything on Catalogue.
+
+00:00:02.967 --> 00:00:14.433
+Catalogue. Every service, material, equipment item and fee your estimates pick from (Service Autopilot's products). The number under the title counts the active items.
+
+00:00:14.933 --> 00:00:22.033
+Add an item. New item opens a blank form. Only people who see money can add or change items.
+
+00:00:22.533 --> 00:00:28.000
+Name. The name on estimates and in the list. It's the only thing you must fill in.
+
+00:00:28.500 --> 00:00:38.800
+Kind. Service (labor), Material, Equipment or Fee. Only a service can carry a kit of materials. The Kind filter on the list uses it too.
+
+00:00:39.300 --> 00:00:48.967
+Category. Hardscape, Plants, Irrigation… It groups the list. A crew whose kind of work matches the category gets won sections of it first.
+
+00:00:49.467 --> 00:00:56.200
+Unit. What one of it is: ea, sq ft, ton, job. The quantity on an estimate counts these.
+
+00:00:56.700 --> 00:01:06.533
+Cost and price. Price is what the customer pays per unit; Cost, just before it, is what it costs you. The list works out the margin from the two.
+
+00:01:07.033 --> 00:01:16.900
+Crew-hours per unit. How many crew-hours one unit takes. It fills the hours on estimates, and the schedule turns those hours into days for a crew.
+
+00:01:17.400 --> 00:01:24.600
+Description. What the customer reads on the estimate line. It fills in when the item is added to an estimate.
+
+00:01:25.100 --> 00:01:31.267
+Taxable. Ticked: sales tax applies to it. Untick it for items that are never taxed.
+
+00:01:31.767 --> 00:01:42.033
+Active. Active items are offered in estimates. Untick to retire one: estimates that have it keep it, and the list hides it unless Show inactive is ticked.
+
+00:01:42.533 --> 00:01:51.300
+Add item. Add item saves it (prices can't be negative). Cancel, or the X at the top, closes the form without saving.
+
+00:01:51.800 --> 00:01:55.967
+Close the form. The tour closes it without saving anything.
+
+00:01:56.467 --> 00:02:04.533
+Search the catalogue. Type part of a name, an item code or a word from the description; the list narrows as you type.
+
+00:02:05.000 --> 00:02:10.367
+Filter by kind. Show only services, materials, equipment or fees.
+
+00:02:10.867 --> 00:02:18.000
+Filter by category. Show one category. The number beside each category is how many items it has.
+
+00:02:18.500 --> 00:02:24.367
+Show inactive. Tick it to include the items you switched off. They carry an Inactive tag.
+
+00:02:24.867 --> 00:02:36.900
+The list. Each row: name, code and description, category, kind, unit, and Used (how many estimate lines use it). Click a row to change the item. 60 rows a page.
+
+00:02:37.400 --> 00:02:47.467
+Cost, price and margin. Cost, Price and Margin show only for people who see money. A margin in red means the price is below the cost.
+
+00:02:47.933 --> 00:02:57.733
+Open an item. Click a row to open the same form, filled in. Changing a price never changes estimates already written. Here: a service.
+
+00:02:58.233 --> 00:03:10.100
+A service's kit. Its kit: the materials that come with this service on every estimate, hidden from the customer unless ticked. The tour "Set up a service's kit" shows each part.
+
+00:03:10.600 --> 00:03:15.300
+Close it. The tour closes it without saving. That's the whole Catalogue.
+
+00:03:15.800 --> 00:03:21.400
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.200
+Everything on Reports.
+
+00:00:02.900 --> 00:00:12.267
+Reports. The year's numbers: sales, salespeople, money owed, commissions and job profit. Only roles that see money can open it.
+
+00:00:12.767 --> 00:00:19.367
+Sales to date. Invoiced this year before tax, and how it compares with the same point last year.
+
+00:00:19.867 --> 00:00:25.100
+Won this year. Estimates won this year, before tax, and how many jobs.
+
+00:00:25.600 --> 00:00:29.867
+Close rate. Won out of won plus lost estimates this year.
+
+00:00:30.367 --> 00:00:37.367
+Owed to us. Everything open on invoices and how much is past due. Click it to jump to Money owed.
+
+00:00:37.867 --> 00:00:47.433
+Sales by month. The Sales tab: this year's bars next to last year's, month by month, invoiced before tax. Hover a bar for the amount.
+
+00:00:47.933 --> 00:00:53.767
+Export. Every table here has Export: it downloads the numbers as an Excel file.
+
+00:00:54.267 --> 00:01:01.933
+Won by category. What sells: estimate sections won this year, by catalogue category (or the section name).
+
+00:01:02.433 --> 00:01:05.500
+Salespeople. Each salesperson's year.
+
+00:01:06.000 --> 00:01:16.500
+Each salesperson. Won and lost by decision date, jobs, close rate, and what's out now (open estimates: amount and how many). Export it for Excel.
+
+00:01:17.000 --> 00:01:20.300
+Money owed. Who owes what, and how late.
+
+00:01:20.800 --> 00:01:30.200
+By age. All customers together: Current, then 1-30, 31-60, 61-90 and Over 90 days past due.
+
+00:01:30.700 --> 00:01:40.833
+Print the call list. Every week or two: each customer who owes, oldest past due first, with phone numbers and room to note the call. The tour doesn't print.
+
+00:01:41.333 --> 00:01:49.833
+By customer. One row per customer, split by age, with the total. Click a customer to open them. Export it for Excel.
+
+00:01:50.333 --> 00:01:53.333
+Commissions. What salespeople have earned.
+
+00:01:53.833 --> 00:02:03.767
+Earned and paid. Per salesperson: earned but not paid yet, and paid this year. The line above says how it's worked out; rates are in Settings, Money.
+
+00:02:04.267 --> 00:02:11.633
+Mark paid. After you pay a salesperson, Mark paid moves all their earned entries to paid. It asks first.
+
+00:02:12.133 --> 00:02:23.133
+Commission report. One row per job with the commission on it, filtered by salesperson and dates, and exported for payroll. The commissions tour covers each filter.
+
+00:02:23.633 --> 00:02:26.767
+Job costing. Profit on each job.
+
+00:02:27.267 --> 00:02:35.033
+Date range. This month, last month, this year, last year or the last 12 months. The dates in use show next to it.
+
+00:02:35.533 --> 00:02:47.900
+Revenue, costs, profit, hours. Revenue with change orders, job costs (labor at the burn rate, materials, subs), gross profit and margin, and crew hours against the estimate.
+
+00:02:48.400 --> 00:02:59.467
+Job profit. Each job finished in the range, plus those still running: revenue, cost, hours, profit, margin against the estimate. Click a job to open it.
+
+00:02:59.933 --> 00:03:10.600
+Jobs, salespeople or crews. Adds the same numbers up by salesperson or by crew instead of by job. Export downloads every job's details.
+
+00:03:11.067 --> 00:03:22.867
+Burn rates. What one man-hour costs: wages, taxes, comp, benefits, overhead. Owner and office add a New rate from a date. The job costing tour shows the form.
+
+00:03:23.367 --> 00:03:26.767
+Timesheets. Crew hours have their own screen.
+
+00:03:27.267 --> 00:03:38.400
+Open Timesheets. Each person's week from the crew app: every segment, overtime past 40 h, missed clock-outs, corrections, approval and the ADP export.
+
+00:03:38.900 --> 00:03:44.500
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.167
+Everything on a job.
+
+00:00:02.867 --> 00:00:10.467
+Open the job. Jobs open from the Jobs list, the Schedule board, the customer or search. Let's open one.
+
+00:00:10.967 --> 00:00:20.767
+The job at a glance. Job number, the estimate it came from, the title, address, phone and who sold it. The link above it goes back to the customer.
+
+00:00:21.267 --> 00:00:28.167
+Work order. Prints the crew's work order: the address, each work item, the crew notes and the materials.
+
+00:00:28.667 --> 00:00:33.133
+Schedule board. Opens the board on the week this job starts.
+
+00:00:33.633 --> 00:00:44.767
+Where the job is. Sold → Scheduled → In progress → Complete → Invoiced → Paid. It moves on by itself as work starts, finishes and is billed.
+
+00:00:45.267 --> 00:00:57.233
+Contract and signature. The contract number and whether it is signed. Mark signed records a paper signature (it asks first). Email signing link sends an online one when it is set up.
+
+00:00:57.733 --> 00:01:05.200
+Value, billed, paid. The contract plus approved change orders, what has been invoiced and what has been paid.
+
+00:01:05.700 --> 00:01:18.800
+Job costing. Is this job making money? Margin, profit so far, and estimate vs actual for hours, labor and materials. Tour: "Check a job's profit and enter its costs".
+
+00:01:19.300 --> 00:01:30.267
+Work. One work item per estimate section, each with its crew, hours and days. Schedule, Start and Complete are here. Tour: "Schedule, start and complete work".
+
+00:01:30.767 --> 00:01:43.400
+Change orders. Extra work the customer asks for, priced and signed on its own. Approved ones become work items and add to the job's value. Tour: "Price and approve a change order".
+
+00:01:43.900 --> 00:01:53.567
+Costs. Material bills, vendor invoices, subcontractors, equipment, dump fees and permits bought for this job. They feed the profit above.
+
+00:01:54.067 --> 00:02:02.733
+Crew time. Each person's hours on this job, day by day: time on site plus their share of the yard, loading and travel time.
+
+00:02:03.233 --> 00:02:11.033
+From the crew. What the crew lead's phone recorded: start and finish with the time, photos and how far they were from the address.
+
+00:02:11.533 --> 00:02:20.400
+Job timeline. Everything that happened on the job, newest first: scheduled, moved, started, change orders, invoices, payments.
+
+00:02:20.900 --> 00:02:30.467
+Payments. The payment schedule: invoice each step in one click, see what is paid and what is due next. Tour: "Invoice a job's payment schedule".
+
+00:02:30.933 --> 00:02:41.667
+Job folder. The paper cover sheet, ticked by itself as things happen: start date, contract emailed and signed, payments, permit, final bill, inspection.
+
+00:02:42.167 --> 00:02:53.333
+Contract terms. The payment schedule in words, the NJ ST-8 for a capital improvement (no sales tax), and whether the customer gets "you're on the schedule" emails.
+
+00:02:53.833 --> 00:03:04.000
+Working days. Long jobs skip weekends unless you switch Saturdays or Sundays on for this job. Tour: "Keep the job folder, permit and terms".
+
+00:03:04.467 --> 00:03:17.633
+Cards that come and go. Only when they apply: a red Permit hold banner, Maintenance plan, Bill tracked time, Material selections, Customer survey. Help lists a tour for each part of the job.
+
+00:03:18.100 --> 00:03:23.700
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.233
+Everything on Timesheets.
+
+00:00:02.933 --> 00:00:13.233
+Timesheets. Each person's week from the crew app: every part of the day, paid hours, overtime after 40 h, missed clock-outs. Breaks are unpaid.
+
+00:00:13.733 --> 00:00:20.133
+Pick the week. The arrows go back or forward a week. This week shows up when you are on an older week.
+
+00:00:20.633 --> 00:00:27.967
+Add time. Adds a forgotten punch or a paper timesheet. Tour: "Fix a missed clock-out or add time".
+
+00:00:28.467 --> 00:00:35.733
+Approve the week. Approves everyone whose week has no missed clock-out. Payroll gets approved hours only.
+
+00:00:36.233 --> 00:00:45.800
+Weekly job tracker. The paper landscape job tracker, filled in from the crew app: each day, each job with start, end, men and man-hours.
+
+00:00:46.300 --> 00:00:48.967
+Crew. One crew, or all of them.
+
+00:00:49.467 --> 00:00:51.700
+Print. Prints the tracker.
+
+00:00:52.233 --> 00:00:56.900
+Close the form. The x closes the form without saving anything.
+
+00:00:57.400 --> 00:01:08.967
+ADP export. Shows the approved week as pay data for ADP Workforce Now, to copy or download. Set the ADP company code under Settings first.
+
+00:01:09.433 --> 00:01:14.033
+Paid hours. Paid hours for everyone this week (breaks left out).
+
+00:01:14.533 --> 00:01:19.100
+Overtime. Hours past 40 in the week, across all jobs.
+
+00:01:19.600 --> 00:01:27.733
+On jobs. The share of paid time on site. Yard, loading and travel are shared across the day's jobs for costing.
+
+00:01:28.233 --> 00:01:35.167
+Missed clock-outs. Missed clock-outs to fix before approving. When there are none, how many people are approved.
+
+00:01:35.667 --> 00:01:45.233
+The colours. Yard, Loading, Travel, On a job, Unloading, Break. Click a block in a ribbon to correct it; ✎ = corrected by the office.
+
+00:01:45.700 --> 00:01:57.900
+One person's week. Name, ADP file #, paid hours (regular + OT), hours on jobs, shop, travel and breaks. Click the row to fold or open the days.
+
+00:01:58.400 --> 00:02:03.067
+Their state. Missed clock-out (fix it first), To approve, or Approved.
+
+00:02:03.567 --> 00:02:10.600
+Approve one person. Approves just this person's week. An approved week shows an undo arrow instead.
+
+00:02:11.100 --> 00:02:17.367
+ADP file #. The person's file number in ADP; the export uses it.
+
+00:02:17.867 --> 00:02:22.467
+File #. Type it as it is in ADP Workforce Now.
+
+00:02:22.967 --> 00:02:26.633
+Save it. Save keeps it. The tour doesn't press it.
+
+00:02:27.133 --> 00:02:31.800
+Close the form. The x closes the form without saving anything.
+
+00:02:32.300 --> 00:02:43.367
+A day as a ribbon. 5 am to 9 pm; each block is a part of the day, and the day's paid total is on the right. Hover a block for its times and job.
+
+00:02:43.833 --> 00:02:50.233
+A missed clock-out. The red dashed block never closed. Click it to put in the real end time.
+
+00:02:50.733 --> 00:02:56.333
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

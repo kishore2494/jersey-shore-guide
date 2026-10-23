@@ -1,0 +1,76 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.033
+Everything on Snow.
+
+00:00:02.733 --> 00:00:09.433
+Snow. The snow log and snow billing: how many properties, visits logged and what is ready to bill.
+
+00:00:09.933 --> 00:00:16.067
+Log a visit. For a visit the crew didn't log on the phone, or from the paper snow log.
+
+00:00:16.567 --> 00:00:19.767
+Property. The property, from its snow plan.
+
+00:00:20.267 --> 00:00:22.600
+Date. The day of the visit.
+
+00:00:23.100 --> 00:00:29.867
+Storm. Name the storm to group its visits (e.g. February 8 storm). Blank groups them by date.
+
+00:00:30.367 --> 00:00:36.100
+Snowfall. Inches at the property. Snowfall pricing uses the biggest per storm.
+
+00:00:36.600 --> 00:00:43.167
+Time in and out. When the crew arrived and left, and how many men; hourly pricing uses them.
+
+00:00:43.667 --> 00:00:48.233
+Truck, driver, crew. Which plow truck, who drove, and the crew.
+
+00:00:48.733 --> 00:00:53.400
+What was done. Plowed the lot, Salted, Shoveled walks, Calcium.
+
+00:00:53.900 --> 00:00:59.833
+Salt, ice melt, loader. How much salt and ice melt went down, and the loader hours.
+
+00:01:00.333 --> 00:01:06.167
+Site condition. How it was left, e.g. Clear · icy spots by the door.
+
+00:01:06.667 --> 00:01:11.833
+Save the visit. Log visit saves it to the log. The tour doesn't press it.
+
+00:01:12.333 --> 00:01:17.000
+Close the form. The x closes the form without saving anything.
+
+00:01:17.500 --> 00:01:27.000
+Bill snow. One draft invoice per customer for every unbilled visit on a priced plan (it asks first). Check and send them from Invoices.
+
+00:01:27.500 --> 00:01:35.633
+A storm. Visits grouped by storm: the date, how many properties and visits, billed or not, and the biggest snowfall.
+
+00:01:36.133 --> 00:01:45.233
+A visit. Property, times, hours, men, truck, driver, whether it came from the crew app, the site condition, what was done, and any photos.
+
+00:01:45.733 --> 00:01:49.700
+Change a visit. Opens the visit in the same form.
+
+00:01:50.200 --> 00:01:57.667
+Remove a visit. Removes it (it asks first). A billed visit shows its invoice number instead and can't change.
+
+00:01:58.167 --> 00:02:05.300
+Snow plans. One plan per property, made on Maintenance (how often: Snow). New plan takes you there.
+
+00:02:05.800 --> 00:02:13.767
+Visits to bill. Logged visits on that property not billed yet. A yellow banner warns when a plan has no pricing.
+
+00:02:14.267 --> 00:02:22.200
+Pricing. How the property is billed: by snowfall or by the hour. Tour: "Price snow by snowfall or by the hour".
+
+00:02:22.700 --> 00:02:27.500
+To bill. Each customer's total ready to bill, priced from their plan.
+
+00:02:28.000 --> 00:02:32.833
+See the lines. Click a customer to see each visit's line and price.
+
+00:02:33.333 --> 00:02:38.933
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.
