@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.233
+Commission report: filter, check, export for payroll.
+
+00:00:04.933 --> 00:00:08.733
+Commissions. Open the Commissions tab on Reports.
+
+00:00:09.233 --> 00:00:20.200
+Earned and paid. The salesperson on the estimate earns it. The line above says when and on what (profit or sale); rates per salesperson are in Settings, Money.
+
+00:00:20.700 --> 00:00:29.433
+Mark paid. After paying a salesperson, Mark paid moves all their earned entries to paid, after asking. The tour doesn't press it.
+
+00:00:29.933 --> 00:00:39.100
+Commission report. Every job by salesperson: contract, change orders, invoiced, paid, paid in full, and the commission on it.
+
+00:00:39.567 --> 00:00:47.933
+Salesperson. Every salesperson, or pick one. Owner and office see this filter; a salesperson sees their own jobs.
+
+00:00:48.433 --> 00:00:56.033
+Which date. Paid in full between, Completed between or Sold between: the date the range below filters on.
+
+00:00:56.533 --> 00:01:05.000
+From and To. The date range. It starts at January 1st of this year through today. The list updates as soon as you change it.
+
+00:01:05.500 --> 00:01:13.567
+Only jobs paid in full. Untick it to see every job in the range, paid or not; unpaid ones show 'Not yet'.
+
+00:01:14.033 --> 00:01:27.233
+One row per job. Contract, change orders, completed, invoiced, paid, paid-in-full date, the base (profit or sale), rate and commission, with its status. Click the customer to open the job.
+
+00:01:27.733 --> 00:01:36.067
+Totals. The totals for everything in the list: jobs, contract, change orders, invoiced, paid, profit and commission.
+
+00:01:36.567 --> 00:01:44.367
+Export for payroll. Downloads the report as an Excel file, one row per job. The tour doesn't download it.
+
+00:01:44.867 --> 00:01:50.467
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

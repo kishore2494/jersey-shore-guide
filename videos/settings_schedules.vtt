@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.200
+Set up a payment schedule (deposit, progress payments, final).
+
+00:00:04.900 --> 00:00:13.867
+Payment schedules. Each estimate picks one, by type of work. A fixed first deposit is allowed; the percentages share what is left.
+
+00:00:14.367 --> 00:00:19.400
+New schedule. Opens the editor with a 30 / 60 / 10 start.
+
+00:00:19.900 --> 00:00:25.867
+Name. What it's called on the estimate, e.g. Paver / hardscape (7 payments).
+
+00:00:26.367 --> 00:00:35.533
+Default for these types of work. Crew specializations, with commas (hardscape, landscape…). Estimates for that work start with this schedule.
+
+00:00:36.000 --> 00:00:41.167
+The default schedule. Tick it for the schedule every other estimate starts with.
+
+00:00:41.667 --> 00:00:51.633
+Start from. Ready-made schedules: 30 / 60 / 10, 50 / 50, Deposit + final, Due on receipt. Pick one, then change it.
+
+00:00:52.133 --> 00:00:57.200
+Deposit + final. For example a fixed deposit, then the balance.
+
+00:00:57.700 --> 00:01:02.167
+One payment. Its number and name, as the customer reads it.
+
+00:01:02.667 --> 00:01:11.333
+How much. % of the rest (a share of what's left after fixed amounts), Fixed $ or The balance (whatever is left; only one).
+
+00:01:11.833 --> 00:01:17.167
+The amount. Dollars for a fixed payment, a percentage for "% of the rest".
+
+00:01:17.667 --> 00:01:24.667
+When it's due. At signing, on receipt, days before the start, when work starts, on completion, or on a date.
+
+00:01:25.167 --> 00:01:29.833
+Order. The arrows move a payment up or down; the x removes it.
+
+00:01:30.333 --> 00:01:33.900
+Add a payment. Adds another payment at the end.
+
+00:01:34.400 --> 00:01:42.367
+Does it add up?. Green when it works. Red says what to fix, e.g. percentages that don't make 100%.
+
+00:01:42.867 --> 00:01:47.767
+Save schedule. Saves it. Open estimates can pick it straight away.
+
+00:01:48.267 --> 00:01:51.967
+Close the editor. The tour closes it without saving.
+
+00:01:52.467 --> 00:01:55.800
+Change one. Click a schedule to change it.
+
+00:01:56.300 --> 00:02:04.667
+Delete. Removes it after asking. Open estimates using it go back to their default; signed contracts keep their payments.
+
+00:02:05.167 --> 00:02:08.367
+Close it. The tour closes it without saving.
+
+00:02:08.867 --> 00:02:14.467
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

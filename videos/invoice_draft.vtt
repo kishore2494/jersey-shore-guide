@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.433
+Check a draft invoice, then email or print it.
+
+00:00:04.133 --> 00:00:11.133
+Drafts. Invoices not sent yet: from a job's payment schedule, the month-end run or New invoice.
+
+00:00:11.633 --> 00:00:14.967
+Open a draft. Click the draft to open it.
+
+00:00:15.467 --> 00:00:23.667
+Lines. A draft can be changed until it's sent. Each line: description, quantity, price, a Tax tick and the amount.
+
+00:00:24.167 --> 00:00:34.567
+Change a line. Type straight into the boxes; the amount updates as you type. Untick Tax for a tax-exempt line. The X at the end removes the line.
+
+00:00:35.067 --> 00:00:38.633
+Add line. Adds an empty line at the bottom.
+
+00:00:39.133 --> 00:00:42.667
+Invoice date. The date printed on the invoice.
+
+00:00:43.167 --> 00:00:51.500
+Due. The same day as the invoice date reads 'due on receipt'. A later date prints as the due date and counts for overdue.
+
+00:00:52.000 --> 00:00:58.267
+Note on the invoice. Printed on the invoice: a thank-you, who to make checks payable to.
+
+00:00:58.767 --> 00:01:06.600
+Save draft. Saves your changes. Every line needs a description, and the due date can't be before the invoice date.
+
+00:01:07.100 --> 00:01:16.367
+Email now. Saves any changes, emails it to the customer and marks it sent. While live email is off it goes to the test address.
+
+00:01:16.867 --> 00:01:21.700
+Print now. Saves, opens the print window and marks it sent (printed).
+
+00:01:22.200 --> 00:01:27.600
+Preview. The customer copy. After changing lines, save to refresh it.
+
+00:01:28.100 --> 00:01:37.833
+The customer's account. Their whole balance across every open invoice, kept apart from this invoice. Click another invoice listed here to open it.
+
+00:01:38.333 --> 00:01:49.067
+Void. Voids it, after asking. It stays on file as void, and a job milestone it billed can be invoiced again. Only before any payment is recorded.
+
+00:01:49.567 --> 00:01:55.167
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.667
+Charge cards on file, one or many, and log a declined card.
+
+00:00:05.367 --> 00:00:10.567
+Open invoices. Cards are charged from the Open or Overdue tab.
+
+00:00:11.067 --> 00:00:21.367
+Who has a card on file. A 💳 and the last 4 digits next to the customer means a card is on file. Those rows get a tick box on the left.
+
+00:00:21.867 --> 00:00:33.933
+Charge many at once. 'Select all with a card' ticks them all (or tick rows one by one). 'Charge N cards' charges what's open on each and records card payments, after asking.
+
+00:00:34.400 --> 00:00:38.867
+Or one invoice. Open the invoice to charge just that one.
+
+00:00:39.367 --> 00:00:50.833
+Charge card. With a card on file and money open, 'Charge card ••1234' shows here. It charges what's still open and records it as a card payment, after asking.
+
+00:00:51.333 --> 00:01:04.000
+Card declined. Declined at the terminal or in the batch? Card declined: note what the processor said. Record it emails the customer to update the card and puts a call on the office list.
+
+00:01:04.467 --> 00:01:09.000
+Paid by card at the terminal. Record payment, then pick Card.
+
+00:01:09.500 --> 00:01:20.400
+Card and the surcharge. With Card picked, the card fee from Settings (Contract terms) shows as its own surcharge before you record it. Untick it to waive the fee.
+
+00:01:20.900 --> 00:01:25.067
+Close. The X closes the form without recording anything.
+
+00:01:25.567 --> 00:01:31.167
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

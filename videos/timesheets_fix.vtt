@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.900
+Fix a missed clock-out or add time.
+
+00:00:03.600 --> 00:00:07.167
+A missed clock-out. Click the red dashed block.
+
+00:00:07.667 --> 00:00:12.567
+No clock-out. It says when the block started and that it was never closed.
+
+00:00:13.067 --> 00:00:17.800
+What. Yard, Loading, Travel, On a job, Unloading or Break.
+
+00:00:18.300 --> 00:00:22.167
+Start. When it started, on the company clock (Eastern).
+
+00:00:22.667 --> 00:00:27.533
+End. When they really finished. For a block still running, leave it empty.
+
+00:00:28.033 --> 00:00:33.267
+Job. For On a job: which job. The hours go to that job's costing.
+
+00:00:33.767 --> 00:00:41.867
+Why. Why it changed, e.g. Forgot to clock out; left at 4:30 per the lead. The original times are kept too.
+
+00:00:42.367 --> 00:00:46.800
+Remove this entry. Takes the block off their week (it asks first).
+
+00:00:47.300 --> 00:00:54.767
+Save the correction. Save correction marks it ✎. If the week was approved, approve it again. The tour doesn't press it.
+
+00:00:55.267 --> 00:00:59.933
+Close the form. The x closes the form without saving anything.
+
+00:01:00.433 --> 00:01:04.467
+Add time. For a forgotten punch or a paper timesheet.
+
+00:01:04.967 --> 00:01:06.900
+Who. The person.
+
+00:01:07.567 --> 00:01:09.567
+Day. The day.
+
+00:01:10.167 --> 00:01:14.900
+What. Yard, Loading, Travel, On a job, Unloading or Break.
+
+00:01:15.400 --> 00:01:21.067
+From and to. The start and end times. Split a shift that runs past midnight.
+
+00:01:21.567 --> 00:01:24.533
+Job. For On a job: which job.
+
+00:01:25.033 --> 00:01:28.900
+Note. e.g. Paper timesheet · phone was dead.
+
+00:01:29.400 --> 00:01:35.400
+Add it. Add time adds it, shown as corrected by the office. The tour doesn't press it.
+
+00:01:35.900 --> 00:01:40.567
+Close the form. The x closes the form without saving anything.
+
+00:01:41.067 --> 00:01:47.933
+Correct any block. Any block opens the same form: change what it was, its times or its job.
+
+00:01:48.433 --> 00:01:54.033
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

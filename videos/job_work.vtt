@@ -1,0 +1,88 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.400
+Schedule, start and complete work on a job.
+
+00:00:04.100 --> 00:00:08.800
+Open the job. Work items live on the job. Let's open one.
+
+00:00:09.300 --> 00:00:17.567
+Work items. One item per estimate section and per approved change order, each with its own crew, crew-hours and days.
+
+00:00:18.067 --> 00:00:21.933
+Add work. For extra work that is not on the estimate.
+
+00:00:22.433 --> 00:00:26.500
+What. Say what the work is, e.g. Extra steps.
+
+00:00:27.000 --> 00:00:34.167
+Crew-hours. The hours the crew needs in total. The board turns them into days using the crew's hours a day.
+
+00:00:34.667 --> 00:00:39.233
+Crew. Who does it. You can leave it and pick the crew when you schedule it.
+
+00:00:39.733 --> 00:00:46.100
+Add it. Add puts it on the job and in the "To schedule" list on the board. The tour doesn't press it.
+
+00:00:46.600 --> 00:00:51.267
+Close the form. The x closes the form without saving anything.
+
+00:00:51.767 --> 00:01:00.300
+One work item. Crew colour, the name, work order number, crew, crew-hours, hours the crew logged and photos, then its status.
+
+00:01:00.800 --> 00:01:09.667
+Its days. The days it is booked. A red "over" day means the crew has more hours than it can do that day: move this or the other work.
+
+00:01:10.167 --> 00:01:15.633
+Reopen. On a finished item: puts it back in progress when the crew has to go back.
+
+00:01:16.133 --> 00:01:25.667
+Complete. Marks the item done. When the last item is done the job turns Complete, ready to invoice. The crew lead can also do it on the phone.
+
+00:01:26.167 --> 00:01:32.333
+Materials. Click Materials to see what this item needs. A tick means the crew loaded it.
+
+00:01:32.833 --> 00:01:40.300
+Reschedule. Opens the schedule form for this item. On an item not on the board yet the button says Schedule.
+
+00:01:40.800 --> 00:01:44.400
+Crew. Pick the crew; each shows its speciality.
+
+00:01:44.900 --> 00:01:47.667
+Start day. The first day on site.
+
+00:01:48.167 --> 00:01:55.433
+Budgeted crew-hours. The hours budgeted. The days are these hours ÷ the crew's hours a day.
+
+00:01:55.933 --> 00:02:02.367
+Or set the days. Leave 0 to work the days out from the hours, or type the number of days.
+
+00:02:02.867 --> 00:02:10.233
+The days it takes. A preview of the days. Weekends are skipped unless the job works them (Working days card).
+
+00:02:10.733 --> 00:02:15.167
+Take it off the board. Puts the item back in the To schedule list.
+
+00:02:15.667 --> 00:02:23.433
+Book the days. Schedule books it and tells you if the crew goes over capacity on any day. The tour doesn't press it.
+
+00:02:23.933 --> 00:02:28.600
+Close the form. The x closes the form without saving anything.
+
+00:02:29.100 --> 00:02:36.667
+Not on the board yet. An item with no days says "Not on the schedule yet" and has a Schedule button: the same form.
+
+00:02:37.167 --> 00:02:44.600
+Remove an item. The bin removes an item that has not started (it asks first). It comes off the schedule too.
+
+00:02:45.100 --> 00:02:51.833
+Crew note. A note for the crew on this item, from the estimate or a change order. It shows on their phone.
+
+00:02:52.333 --> 00:02:57.600
+Open the job. Now a job that is booked but not started, to see Start.
+
+00:02:58.100 --> 00:03:07.800
+Start. Marks the item in progress (the crew lead usually does it on the phone). A job on Permit hold shows a red tag instead and can't start.
+
+00:03:08.300 --> 00:03:13.900
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.633
+Add or change a truck or machine.
+
+00:00:03.333 --> 00:00:08.267
+Add unit. Opens the form. Its fields match your fleet spreadsheet.
+
+00:00:08.767 --> 00:00:16.967
+Unit number. The number on the truck or machine (T-01, E-02). It's the only thing you must fill in.
+
+00:00:17.467 --> 00:00:25.533
+Truck or equipment. Truck / vehicle counts miles (oil, tires, inspection). Equipment counts engine hours.
+
+00:00:26.033 --> 00:00:31.167
+Type. Dump truck, pickup, skid steer… It shows under the name on its card.
+
+00:00:31.667 --> 00:00:40.100
+Status. Active, In shop, Out of service, Spare, Reserved or Sold. Sold units leave the main list (see them under Sold).
+
+00:00:40.600 --> 00:00:46.367
+Year, make, model, VIN. Year, make and model, then the VIN or serial number.
+
+00:00:46.867 --> 00:00:49.200
+Plate. The licence plate.
+
+00:00:49.700 --> 00:00:56.000
+Crew or driver. The crew that usually takes it, or a driver's name. Its card shows it.
+
+00:00:56.500 --> 00:01:03.333
+Next inspection. The date of the next inspection. It shows amber when close and red when past.
+
+00:01:03.833 --> 00:01:11.800
+Oil every. Miles between oil changes. The next one is due this many miles after the last oil change you log.
+
+00:01:12.267 --> 00:01:16.100
+Tires every. Miles between tire services.
+
+00:01:16.600 --> 00:01:21.833
+Equipment service every. Engine hours between services, for machines.
+
+00:01:22.333 --> 00:01:25.433
+Notes. Anything else worth knowing about it.
+
+00:01:25.933 --> 00:01:31.567
+Add unit. Saves it. Then log its last oil change so its due dates start.
+
+00:01:32.067 --> 00:01:35.800
+Close the form. The tour closes it without saving.
+
+00:01:36.300 --> 00:01:39.567
+Change a unit. To change one, open it…
+
+00:01:40.067 --> 00:01:44.600
+Edit unit. …and press Edit unit: the same form, filled in.
+
+00:01:45.100 --> 00:01:52.667
+Remove unit. Owner or office only. It asks first. Mark the unit Sold instead to keep its history.
+
+00:01:53.167 --> 00:01:55.933
+Save. Save keeps the changes.
+
+00:01:56.433 --> 00:01:59.633
+Close it. The tour closes it without saving.
+
+00:02:00.133 --> 00:02:05.733
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

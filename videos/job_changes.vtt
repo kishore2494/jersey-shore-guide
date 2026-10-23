@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.733
+Price and approve a change order.
+
+00:00:03.433 --> 00:00:08.233
+Open the job. Change orders live on the job. Let's open one.
+
+00:00:08.733 --> 00:00:17.567
+Change orders. Extra work the customer asks for, each priced and signed on its own and kept apart from the original contract.
+
+00:00:18.067 --> 00:00:26.800
+Start one. New change order starts a draft on this job straight away (CO-1, CO-2 …), ready to fill in. The tour doesn't press it.
+
+00:00:27.300 --> 00:00:37.667
+An approved one. The stamp shows its state: Draft, With customer, Approved or Declined. Then the lines, crew-hours, who approved it and how it is billed.
+
+00:00:38.167 --> 00:00:45.167
+Print it. Prints the approved change order. If it was billed on its own invoice, a button opens that invoice.
+
+00:00:45.667 --> 00:00:53.200
+A draft. A draft, or one with the customer, can still change: Edit, Print, Approved, and the x for declined.
+
+00:00:53.700 --> 00:00:56.500
+Edit. Opens it to write the lines.
+
+00:00:57.000 --> 00:01:02.667
+Title. A short name the customer understands, e.g. Patio extension.
+
+00:01:03.167 --> 00:01:09.467
+Estimated crew-hours. Becomes the crew's hour budget on the work item once it is approved.
+
+00:01:09.967 --> 00:01:20.800
+The lines. What changes, quantity, price, your cost (never shown to the customer) and the Tax tick. The x removes a line; the total before tax is under it.
+
+00:01:21.300 --> 00:01:24.100
+Add a line. Adds another line.
+
+00:01:24.600 --> 00:01:31.767
+Save it. Saves the lines. Tax follows the job (none on an ST-8 job). The tour doesn't press it.
+
+00:01:32.267 --> 00:01:36.033
+Close without saving. Cancel closes the editor.
+
+00:01:36.533 --> 00:01:40.933
+Give it to the customer. Print prints it and marks it "With customer".
+
+00:01:41.433 --> 00:01:52.800
+The customer agreed. Approved asks who approved it and how to bill it: with the final invoice, now on its own invoice, in the final payment or spread over the payments left.
+
+00:01:53.300 --> 00:02:00.800
+The customer said no. Marks it Declined (it asks first). It stays on the job; a declined one can be deleted.
+
+00:02:01.300 --> 00:02:13.267
+It becomes work. Once approved it is a CO work item with its own hours, scheduled like any other work. Its price adds to the job. You can attach the signed copy when approving.
+
+00:02:13.767 --> 00:02:19.367
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

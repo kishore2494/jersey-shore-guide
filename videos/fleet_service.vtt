@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.333
+Log a service, oil change or repair.
+
+00:00:04.033 --> 00:00:07.200
+Log service. Opens the service form.
+
+00:00:07.700 --> 00:00:10.333
+Unit. Pick the truck or machine.
+
+00:00:10.833 --> 00:00:14.200
+Date. When it was done. It starts at today.
+
+00:00:14.667 --> 00:00:27.433
+Service. Oil & Filter, Tire Rotation, Brakes, Annual Inspection, Repair, Seasonal, Track Replacement or Other. Oil, inspection and tire services reset that item's due date.
+
+00:00:27.933 --> 00:00:34.200
+Which track. For a track replacement: Left, Right or Both. It must be filled in for that service.
+
+00:00:34.700 --> 00:00:44.633
+Miles or hours. The odometer for a truck, or the engine hours for a machine, at the service. Opened from a unit, they start at its last reading.
+
+00:00:45.133 --> 00:00:53.500
+Parts and labor. What the parts and the labor cost. Together they make the cost in the service log and the unit's maintenance cost.
+
+00:00:54.000 --> 00:00:57.533
+Work performed. What was done, in a few words.
+
+00:00:58.033 --> 00:01:01.200
+Performed by. The shop or the mechanic.
+
+00:01:01.700 --> 00:01:05.233
+Next due. Optional: a date for the next one.
+
+00:01:05.733 --> 00:01:09.633
+Log service. Saves it and moves the due dates on.
+
+00:01:10.133 --> 00:01:13.867
+Close the form. The tour closes it without saving.
+
+00:01:14.367 --> 00:01:20.667
+A problem a crew reported. For a problem a crew reported from the phone, use its own button.
+
+00:01:21.167 --> 00:01:25.200
+Log the fix. Opens the same form for that unit…
+
+00:01:25.700 --> 00:01:32.533
+The problem is filled in. …with "Fixed:" and the problem already written. Logging it closes the report.
+
+00:01:33.033 --> 00:01:36.233
+Close it. The tour closes it without saving.
+
+00:01:36.733 --> 00:01:42.333
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

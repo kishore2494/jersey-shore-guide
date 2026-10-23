@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.367
+Invoice, record a payment, chase what's owed.
+
+00:00:04.067 --> 00:00:11.267
+Open an invoice. Invoices come from the job: a payment-schedule step, the balance, or a change order.
+
+00:00:11.767 --> 00:00:21.200
+Record a payment. Check, cash, ACH or card. A card payment adds the card fee as its own line; the job's balance updates.
+
+00:00:21.700 --> 00:00:31.300
+Who owes what. Open invoices by customer and by age: 0–30, 31–60, 61–90, 90+.
+
+00:00:31.800 --> 00:00:36.067
+The call list. Print it every couple of weeks for the office to call.
+
+00:00:36.567 --> 00:00:42.167
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

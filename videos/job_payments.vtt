@@ -1,0 +1,52 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.867
+Invoice a job's payment schedule.
+
+00:00:03.567 --> 00:00:08.633
+Open the job. The payment schedule is on the job. Let's open one.
+
+00:00:09.133 --> 00:00:15.733
+Payments. The payment schedule from the contract. Invoice each payment in one click when it is due.
+
+00:00:16.233 --> 00:00:23.300
+The totals. Contract (with change orders), invoiced, paid and remaining, then the next payment due and when.
+
+00:00:23.800 --> 00:00:31.767
+Each payment. A tick once paid, then the name, the %, when it is due, Invoiced or Not invoiced yet, and the amount.
+
+00:00:32.233 --> 00:00:39.333
+Open its invoice. Once a payment is invoiced, this opens the invoice to send it or record a payment.
+
+00:00:39.833 --> 00:00:50.233
+Invoice a payment. Makes a draft invoice for that payment and opens it to check and send. Once the job is complete, "Invoice the balance" bills what is left.
+
+00:00:50.733 --> 00:00:56.867
+Change the schedule. Edit schedule re-plans the payments still to bill (owner and office).
+
+00:00:57.367 --> 00:01:04.800
+Invoiced ones are locked. Payments already invoiced stay as they are. The ones below share what is still to bill.
+
+00:01:05.300 --> 00:01:10.433
+Start from a preset. One click fills a common schedule; then adjust it.
+
+00:01:10.933 --> 00:01:20.867
+One payment. Its name; the arrows move it up or down and x removes it. Then % of the rest, a fixed $ or the balance, and when it is due.
+
+00:01:21.367 --> 00:01:24.433
+Add a payment. Adds another payment.
+
+00:01:24.933 --> 00:01:30.133
+Save it. Checks it adds up to what is left, then saves. The tour doesn't press it.
+
+00:01:30.633 --> 00:01:34.400
+Leave it as it was. Cancel closes the editor.
+
+00:01:34.900 --> 00:01:41.267
+Invoices on this job. Every invoice for this job with its status. Click one to open it.
+
+00:01:41.767 --> 00:01:48.633
+Also in the job folder. The folder lists each payment again with how it was paid, for the paper file.
+
+00:01:49.133 --> 00:01:54.733
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

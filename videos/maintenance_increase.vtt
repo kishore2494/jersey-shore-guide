@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.900
+Raise maintenance prices for the year.
+
+00:00:03.600 --> 00:00:09.100
+Yearly increase. Raises every maintenance plan due its increase, in one go.
+
+00:00:09.600 --> 00:00:16.400
+Increase. The % to add. Leave it blank to use each plan's own % (5% unless set).
+
+00:00:16.900 --> 00:00:21.467
+Starting. From this date visits not billed yet take the new price.
+
+00:00:21.967 --> 00:00:27.433
+Tell the customers. Emails each customer who has an email their new price.
+
+00:00:27.933 --> 00:00:37.067
+Which plans. Each plan due: last increase, price now, new price, %. Untick any to skip. Per-storm snow plans are left out.
+
+00:00:37.567 --> 00:00:44.933
+Apply it. Apply the increase shows the yearly value before and after and asks first. The tour doesn't press it.
+
+00:00:45.433 --> 00:00:50.100
+Close the form. The x closes the form without saving anything.
+
+00:00:50.600 --> 00:00:56.200
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

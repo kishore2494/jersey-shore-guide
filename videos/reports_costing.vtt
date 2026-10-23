@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.267
+Job costing: profit by job, salesperson and crew.
+
+00:00:04.967 --> 00:00:09.500
+Job costing. Open the Job costing tab on Reports.
+
+00:00:10.000 --> 00:00:17.867
+Pick the dates. This month, last month, this year, last year or the last 12 months. The dates in use show next to it.
+
+00:00:18.367 --> 00:00:23.533
+Last 12 months. Click a range and the whole tab recalculates for it.
+
+00:00:24.033 --> 00:00:35.400
+Revenue. Contracts plus approved change orders for jobs with costs. Jobs with no crew time or costs yet aren't counted, so they don't show a false 100%.
+
+00:00:35.900 --> 00:00:41.733
+Job costs. Crew hours at the burn rate, plus materials and subcontractors.
+
+00:00:42.233 --> 00:00:46.733
+Gross profit. Revenue minus job costs, and the margin.
+
+00:00:47.233 --> 00:00:54.400
+Crew hours. Hours the crews logged against the hours estimated. Going over is what eats the margin.
+
+00:00:54.900 --> 00:00:59.567
+Job profit. Jobs finished in the range plus those still running.
+
+00:01:00.067 --> 00:01:12.000
+One job. CO = change orders in the revenue. Red hours = more than estimated. Margin shows the estimate's margin next to it. Click a job to open it.
+
+00:01:12.500 --> 00:01:17.067
+By salesperson. The same numbers added up per salesperson.
+
+00:01:17.567 --> 00:01:22.333
+By crew. Per crew. A job two crews worked on counts for both.
+
+00:01:22.833 --> 00:01:26.233
+Back to jobs. One row per job again.
+
+00:01:26.733 --> 00:01:37.300
+Export. Downloads every job as an Excel file: estimated and actual hours, labor, material, subs, other, total cost, profit and margins.
+
+00:01:37.767 --> 00:01:49.100
+Burn rates. What one man-hour costs: wages, payroll taxes, workers' comp, benefits and overhead. Types of work without their own rate use the company-wide one.
+
+00:01:49.600 --> 00:01:58.167
+Rate cards. Each card: the rate today and since when. A rate that starts later shows in amber; History lists older rates.
+
+00:01:58.667 --> 00:02:04.700
+New rate. Owner and office can add a rate, for example when wages or comp change.
+
+00:02:05.200 --> 00:02:10.400
+For. Company-wide, or one type of work such as Hardscape or Landscape.
+
+00:02:10.900 --> 00:02:14.767
+Per man-hour. The full cost of one man-hour, all in.
+
+00:02:15.267 --> 00:02:20.733
+From. Work from this date costs at the new rate. Earlier work keeps the rate it had.
+
+00:02:21.233 --> 00:02:26.533
+Note. What's in it, for example '2027 wages + comp'.
+
+00:02:27.033 --> 00:02:33.000
+Save rate. Saves the rate and job profit recalculates. The tour doesn't save it.
+
+00:02:33.500 --> 00:02:36.867
+Close. The X closes the form without saving.
+
+00:02:37.367 --> 00:02:42.967
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.

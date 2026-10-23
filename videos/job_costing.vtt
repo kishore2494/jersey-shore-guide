@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.333
+Check a job's profit and enter its costs.
+
+00:00:04.033 --> 00:00:09.000
+Open the job. Profit and costs are on the job. Let's open one.
+
+00:00:09.500 --> 00:00:19.267
+Job costing. Running numbers while the job is on, final numbers once it is complete. They move as the crew logs time and costs come in.
+
+00:00:19.767 --> 00:00:32.767
+Margin and profit. The ring is the margin. Beside it: gross profit so far (or the estimated profit before work starts), the revenue with change orders, and the estimated margin.
+
+00:00:33.267 --> 00:00:44.400
+Where the money goes. The top bar is actual: labor, materials, subs, other, and what is left as profit. The bar under it is the estimate. The colour key is below.
+
+00:00:44.900 --> 00:00:56.467
+Estimate vs actual. Crew hours, labor, materials, subcontractors, other and total cost: estimated, actual and the difference (red = over the estimate).
+
+00:00:56.933 --> 00:01:03.933
+By work item. Opens the same comparison for each work item; change orders are marked CO.
+
+00:01:04.433 --> 00:01:13.667
+Profit report. Opens Reports → Job costing with every job side by side. The burn rates that price labor are set there.
+
+00:01:14.167 --> 00:01:20.467
+Costs. Everything bought for this job. Add bills as they come in and the profit above updates.
+
+00:01:20.967 --> 00:01:24.033
+Add a cost. Opens the cost form.
+
+00:01:24.533 --> 00:01:30.400
+Kind. Materials, Subcontractor, Equipment, Dump / disposal, Permit or Other.
+
+00:01:30.900 --> 00:01:35.800
+Vendor. Who you paid, e.g. Cedar Bridge Landscape Supply.
+
+00:01:36.300 --> 00:01:40.767
+Amount. What it cost. A credit can go in as a minus amount.
+
+00:01:41.267 --> 00:01:49.533
+Their invoice # and date. The vendor's invoice number (you are warned if it is on this job twice) and the date beside it.
+
+00:01:50.033 --> 00:01:56.900
+For (optional). Leave it on the whole job, or charge it to one work item or an approved change order.
+
+00:01:57.400 --> 00:02:03.667
+Description. What it was, e.g. 12 pallets Techo-Bloc, 4 t stone dust.
+
+00:02:04.167 --> 00:02:08.600
+Attach receipt. Attach a photo or PDF of the bill.
+
+00:02:09.100 --> 00:02:14.467
+Save the cost. Add cost saves it against the job. The tour doesn't press it.
+
+00:02:14.967 --> 00:02:19.633
+Close the form. The x closes the form without saving anything.
+
+00:02:20.133 --> 00:02:24.133
+Change a cost. The pencil opens a cost to correct it.
+
+00:02:24.633 --> 00:02:29.400
+Remove a cost. The bin takes it off the job's costs (it asks first).
+
+00:02:29.900 --> 00:02:38.333
+Crew time by person. Each day, each person: hours on site + their share of yard and travel time, and what it cost.
+
+00:02:38.833 --> 00:02:44.433
+That's it. You can play this tour in the app any time: press Help, and ask in your own words.
